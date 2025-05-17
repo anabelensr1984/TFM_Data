@@ -1,0 +1,1001 @@
+ID_Cliente;Importe_total;Ticket_medio;Frecuencia;Dias_desde_ultima_factura;Categoria_top;Canal_preferido;Edad;Metodo_pago;Genero;Predicciones
+C100700;74.47;74.47;1;223;5;Web;44;Tarjeta ECI;0;Clientes Estrella
+C101057;4529.89;4529.89;1;571;3;Web;55;Tarjeta ECI;0;Compradores de Temporada
+C102144;3387.15;3387.15;1;202;3;Tienda física;54;Otras Tarjetas;1;Compradores de Temporada
+C102779;1765.32;1765.32;1;527;0;Web;59;Tarjeta ECI;0;Compradores de Temporada
+C104233;2699.99;2699.99;1;1251;1;Web;62;Tarjeta ECI;1;Compradores de Temporada
+C104953;1204.03;1204.03;1;50;0;Web;47;Tarjeta ECI;0;Curiosos o Ocasionales
+C105334;366.7;366.7;1;1119;1;Web;56;Otras Tarjetas;1;Curiosos o Ocasionales
+C106316;3005.58;3005.58;1;1306;1;Web;64;Tarjeta ECI;1;Compradores de Temporada
+C106637;3103.65;3103.65;1;560;7;Tienda física;36;Tarjeta ECI;0;Compradores de Temporada
+C106757;3481.78;3481.78;1;167;3;Web;52;Otras Tarjetas;0;Compradores de Temporada
+C107758;951.01;951.01;1;1149;3;Web;54;Otras Tarjetas;1;Clientes Estrella
+C107792;3261.14;3261.14;1;612;1;Tienda física;63;Efectivo;0;Compradores de Temporada
+C107979;1271.93;1271.93;1;12;3;Tienda física;66;Efectivo;1;Compradores de Temporada
+C109297;105.4;105.4;1;1383;6;Web;62;Tarjeta ECI;1;Clientes Estrella
+C110892;4149.12;4149.12;1;1417;6;Web;62;Efectivo;0;Compradores de Temporada
+C112210;4762.95;4762.95;1;793;7;Tienda física;26;Otras Tarjetas;1;Compradores de Temporada
+C112860;566.86;566.86;1;886;0;Tienda física;31;Otras Tarjetas;0;Curiosos o Ocasionales
+C113276;1293.2;1293.2;1;8;7;Web;55;Tarjeta ECI;0;Cazadores de Ofertas
+C113904;69.65;69.65;1;991;2;Tienda física;27;Tarjeta ECI;0;Clientes Estrella
+C114060;3943.21;3943.21;1;107;0;Web;43;Efectivo;0;Compradores de Temporada
+C116521;3499.84;3499.84;1;750;2;Web;41;Efectivo;0;Compradores de Temporada
+C118314;470.49;470.49;1;646;4;Tienda física;30;Efectivo;0;Clientes Estrella
+C118496;1440.01;1440.01;1;1040;0;Web;20;Tarjeta ECI;1;Curiosos o Ocasionales
+C119305;2045.78;2045.78;1;670;3;Web;69;Tarjeta ECI;1;Compradores de Temporada
+C119656;449.4;449.4;1;983;1;Web;31;Tarjeta ECI;1;Clientes Estrella
+C120161;873.53;873.53;1;823;2;Web;59;Tarjeta ECI;0;Curiosos o Ocasionales
+C120554;1205.62;1205.62;1;1159;2;Web;61;Tarjeta ECI;1;Compradores de Temporada
+C121301;3003.73;3003.73;1;736;5;Web;22;Tarjeta ECI;0;Compradores de Temporada
+C121493;403.98;403.98;1;597;1;Web;47;Tarjeta ECI;1;Curiosos o Ocasionales
+C122012;2392.17;2392.17;1;1316;6;Web;35;Otras Tarjetas;0;Compradores de Temporada
+C122911;3697.47;3697.47;1;376;1;Web;65;Tarjeta ECI;1;Compradores de Temporada
+C124941;4652.61;4652.61;1;39;0;Web;24;Otras Tarjetas;0;Compradores de Temporada
+C127039;4095.14;4095.14;1;1001;7;Tienda física;59;Tarjeta ECI;1;Compradores de Temporada
+C127085;847.48;847.48;1;218;0;Web;45;Tarjeta ECI;0;Curiosos o Ocasionales
+C127334;1819.16;1819.16;1;594;1;Web;66;Efectivo;0;Compradores de Temporada
+C127404;4739.02;4739.02;1;76;3;Web;55;Efectivo;1;Compradores de Temporada
+C127992;602.06;602.06;1;564;0;Tienda física;38;Tarjeta ECI;1;Curiosos o Ocasionales
+C129246;2984.78;2984.78;1;1190;7;Web;67;Efectivo;1;Compradores de Temporada
+C129630;1022.53;1022.53;1;93;3;Web;37;Efectivo;1;Clientes Estrella
+C130035;3956.27;3956.27;1;21;0;Web;66;Otras Tarjetas;1;Compradores de Temporada
+C130768;375.58;375.58;1;61;5;Tienda física;32;Otras Tarjetas;0;Curiosos o Ocasionales
+C131973;2456.15;2456.15;1;1287;1;Web;34;Otras Tarjetas;1;Compradores de Temporada
+C132142;1596.66;1596.66;1;44;4;Web;51;Otras Tarjetas;1;Clientes Estrella
+C133492;3087.72;3087.72;1;473;7;Web;62;Efectivo;1;Compradores de Temporada
+C133936;1712.99;1712.99;1;86;6;Tienda física;24;Tarjeta ECI;1;Compradores de Temporada
+C133972;2627.45;2627.45;1;138;1;Web;36;Otras Tarjetas;1;Compradores de Temporada
+C134264;1245.2;1245.2;1;1264;5;Web;24;Tarjeta ECI;0;Clientes Estrella
+C134360;749.01;749.01;1;274;4;Tienda física;63;Tarjeta ECI;1;Curiosos o Ocasionales
+C135536;2884.37;2884.37;1;601;2;Web;25;Tarjeta ECI;1;Compradores de Temporada
+C135859;750.54;750.54;1;33;7;Web;30;Otras Tarjetas;1;Clientes Estrella
+C136049;2567.75;2567.75;1;350;1;Web;54;Otras Tarjetas;1;Compradores de Temporada
+C136246;2035.49;2035.49;1;207;5;Web;22;Tarjeta ECI;0;Compradores de Temporada
+C138045;3516.25;3516.25;1;942;2;Web;37;Otras Tarjetas;1;Compradores de Temporada
+C138182;1349.41;1349.41;1;849;7;Tienda física;59;Tarjeta ECI;1;Cazadores de Ofertas
+C141016;4390.77;4390.77;1;911;1;Tienda física;47;Otras Tarjetas;1;Compradores de Temporada
+C141126;4519.82;4519.82;1;738;1;Web;30;Otras Tarjetas;1;Compradores de Temporada
+C142382;3774.17;3774.17;1;446;5;Web;31;Tarjeta ECI;0;Compradores de Temporada
+C142734;678.19;678.19;1;86;4;Tienda física;66;Efectivo;1;Curiosos o Ocasionales
+C143820;1605.24;1605.24;1;1389;6;Web;55;Tarjeta ECI;0;Compradores de Temporada
+C144836;2050.43;2050.43;1;873;2;Web;30;Efectivo;0;Compradores de Temporada
+C145274;4984.63;4984.63;1;70;3;Tienda física;57;Efectivo;1;Compradores de Temporada
+C145534;2220.55;2220.55;1;1072;4;Web;26;Otras Tarjetas;0;Compradores de Temporada
+C146013;2492.53;2492.53;1;241;4;Web;52;Otras Tarjetas;0;Compradores de Temporada
+C146957;2753.9;2753.9;1;433;4;Tienda física;67;Otras Tarjetas;0;Compradores de Temporada
+C147939;303.9;303.9;1;814;7;Tienda física;35;Efectivo;1;Clientes Estrella
+C148793;1255.69;1255.69;1;172;5;Tienda física;63;Otras Tarjetas;0;Clientes Estrella
+C152389;3644.36;3644.36;1;1150;1;Web;52;Tarjeta ECI;1;Compradores de Temporada
+C154103;3714.08;3714.08;1;1406;4;Tienda física;22;Efectivo;0;Compradores de Temporada
+C154560;2673.07;2673.07;1;691;5;Web;60;Otras Tarjetas;0;Compradores de Temporada
+C154680;4521.3;4521.3;1;353;2;Web;62;Efectivo;0;Compradores de Temporada
+C155126;1482.39;1482.39;1;346;5;Tienda física;58;Efectivo;0;Clientes Estrella
+C155331;3372.76;3372.76;1;871;0;Web;61;Efectivo;0;Compradores de Temporada
+C155420;214.02;214.02;1;697;4;Tienda física;53;Otras Tarjetas;1;Curiosos o Ocasionales
+C155827;2146.53;2146.53;1;916;4;Web;57;Tarjeta ECI;1;Compradores de Temporada
+C156235;693.92;693.92;1;107;5;Web;65;Tarjeta ECI;1;Curiosos o Ocasionales
+C157216;1243.23;1243.23;1;0;4;Tienda física;19;Tarjeta ECI;0;Curiosos o Ocasionales
+C160315;2428.96;2428.96;1;77;6;Web;65;Efectivo;0;Compradores de Temporada
+C161963;3503.29;3503.29;1;421;3;Tienda física;37;Tarjeta ECI;0;Compradores de Temporada
+C162195;2947.84;2947.84;1;1273;2;Web;52;Tarjeta ECI;0;Compradores de Temporada
+C166124;4715.69;4715.69;1;189;2;Web;35;Tarjeta ECI;0;Compradores de Temporada
+C167192;1855.56;1855.56;1;642;5;Tienda física;35;Otras Tarjetas;1;Compradores de Temporada
+C167836;1289.71;1289.71;1;1026;2;Tienda física;55;Efectivo;0;Compradores de Temporada
+C169750;731.36;731.36;1;490;6;Tienda física;62;Tarjeta ECI;1;Clientes Estrella
+C170808;3468.68;3468.68;1;198;5;Web;33;Efectivo;0;Compradores de Temporada
+C171006;3246.35;3246.35;1;354;5;Tienda física;34;Efectivo;1;Compradores de Temporada
+C172058;4746.65;4746.65;1;708;0;Tienda física;52;Efectivo;0;Compradores de Temporada
+C173545;1015.16;1015.16;1;888;4;Tienda física;46;Otras Tarjetas;0;Curiosos o Ocasionales
+C174100;2704.59;2704.59;1;1334;0;Web;60;Efectivo;1;Compradores de Temporada
+C174359;465.04;465.04;1;807;1;Web;24;Tarjeta ECI;1;Clientes Estrella
+C175029;4075.68;4075.68;1;967;5;Tienda física;51;Otras Tarjetas;1;Compradores de Temporada
+C175161;3521.88;3521.88;1;1441;5;Tienda física;40;Efectivo;1;Compradores de Temporada
+C175745;3714.39;3714.39;1;1251;1;Tienda física;57;Tarjeta ECI;1;Compradores de Temporada
+C177490;1633.24;1633.24;1;566;1;Web;20;Tarjeta ECI;1;Clientes Estrella
+C178915;146.54;146.54;1;1265;4;Tienda física;29;Otras Tarjetas;1;Clientes Estrella
+C179520;235.44;235.44;1;333;6;Tienda física;64;Efectivo;0;Clientes Estrella
+C179891;441.09;441.09;1;1117;5;Web;25;Tarjeta ECI;1;Clientes Estrella
+C180024;1491.7;1491.7;1;296;4;Tienda física;59;Otras Tarjetas;0;Clientes Estrella
+C180865;3523.43;3523.43;1;872;2;Tienda física;61;Otras Tarjetas;1;Compradores de Temporada
+C180934;3711.39;3711.39;1;714;2;Tienda física;23;Efectivo;1;Compradores de Temporada
+C181354;1018.52;1018.52;1;1095;6;Tienda física;65;Otras Tarjetas;0;Clientes Estrella
+C181892;4248.6;4248.6;1;68;7;Tienda física;50;Tarjeta ECI;1;Compradores de Temporada
+C182255;36.86;36.86;1;576;2;Tienda física;50;Tarjeta ECI;0;Cazadores de Ofertas
+C182778;3074.67;3074.67;1;629;0;Tienda física;45;Efectivo;1;Compradores de Temporada
+C182970;2074.07;2074.07;1;1085;7;Web;57;Tarjeta ECI;1;Compradores de Temporada
+C183335;3833.77;3833.77;1;204;3;Web;66;Otras Tarjetas;0;Compradores de Temporada
+C183634;4760.39;4760.39;1;1417;1;Tienda física;61;Efectivo;0;Compradores de Temporada
+C185862;1311.0;1311.0;1;847;4;Tienda física;18;Tarjeta ECI;0;Curiosos o Ocasionales
+C187265;3849.36;3849.36;1;847;1;Web;66;Otras Tarjetas;0;Compradores de Temporada
+C187818;1150.64;1150.64;1;1344;5;Web;57;Otras Tarjetas;1;Clientes Estrella
+C188809;4724.2;4724.2;1;67;5;Tienda física;18;Otras Tarjetas;0;Compradores de Temporada
+C191367;3908.92;3908.92;1;186;7;Web;32;Tarjeta ECI;1;Compradores de Temporada
+C191418;603.51;603.51;1;769;2;Web;53;Tarjeta ECI;0;Clientes Estrella
+C191847;4489.92;4489.92;1;305;3;Web;54;Efectivo;1;Compradores de Temporada
+C192059;3690.55;3690.55;1;840;0;Web;62;Tarjeta ECI;1;Compradores de Temporada
+C192070;1922.58;1922.58;1;207;1;Web;18;Efectivo;0;Compradores de Temporada
+C193142;3640.9;3640.9;1;1389;0;Web;49;Otras Tarjetas;1;Compradores de Temporada
+C193539;3625.05;3625.05;1;1201;6;Tienda física;33;Efectivo;1;Compradores de Temporada
+C194118;1743.74;1743.74;1;178;4;Web;31;Otras Tarjetas;1;Compradores de Temporada
+C195126;2170.51;2170.51;1;862;1;Tienda física;54;Efectivo;0;Compradores de Temporada
+C195470;3181.27;3181.27;1;748;7;Web;67;Otras Tarjetas;0;Compradores de Temporada
+C196000;897.64;897.64;1;22;5;Tienda física;61;Tarjeta ECI;0;Clientes Estrella
+C196059;1611.69;1611.69;1;1124;0;Web;41;Tarjeta ECI;1;Compradores de Temporada
+C196496;4603.67;4603.67;1;585;5;Web;55;Tarjeta ECI;1;Compradores de Temporada
+C196519;2461.87;2461.87;1;1458;1;Tienda física;67;Otras Tarjetas;0;Compradores de Temporada
+C196765;3554.14;3554.14;1;145;5;Web;49;Tarjeta ECI;1;Compradores de Temporada
+C197392;3573.08;3573.08;1;124;7;Web;21;Otras Tarjetas;1;Compradores de Temporada
+C197752;4352.17;4352.17;1;376;1;Web;23;Efectivo;1;Compradores de Temporada
+C198386;3490.17;3490.17;1;1361;0;Tienda física;63;Otras Tarjetas;0;Compradores de Temporada
+C202106;1617.57;1617.57;1;1203;5;Tienda física;34;Tarjeta ECI;1;Compradores de Temporada
+C202579;1721.65;1721.65;1;1075;3;Tienda física;56;Otras Tarjetas;0;Compradores de Temporada
+C203658;3164.58;3164.58;1;935;5;Web;58;Tarjeta ECI;0;Compradores de Temporada
+C205070;18.68;18.68;1;1345;3;Web;55;Tarjeta ECI;1;Curiosos o Ocasionales
+C205247;128.34;128.34;1;616;0;Web;34;Efectivo;1;Curiosos o Ocasionales
+C205981;4737.03;4737.03;1;679;4;Tienda física;42;Efectivo;1;Compradores de Temporada
+C206609;4253.62;4253.62;1;1429;7;Web;40;Otras Tarjetas;1;Compradores de Temporada
+C207449;381.61;381.61;1;813;1;Tienda física;27;Tarjeta ECI;1;Curiosos o Ocasionales
+C207583;3143.72;3143.72;1;516;6;Web;25;Tarjeta ECI;1;Compradores de Temporada
+C208977;2209.36;2209.36;1;606;7;Web;33;Otras Tarjetas;1;Compradores de Temporada
+C213167;4261.06;4261.06;1;328;7;Tienda física;55;Tarjeta ECI;0;Compradores de Temporada
+C213233;395.52;395.52;1;35;6;Tienda física;38;Tarjeta ECI;0;Clientes Estrella
+C213870;4311.21;4311.21;1;402;5;Tienda física;59;Tarjeta ECI;1;Compradores de Temporada
+C214314;4757.37;4757.37;1;1148;4;Web;49;Efectivo;0;Compradores de Temporada
+C217704;1009.24;1009.24;1;1039;0;Tienda física;43;Efectivo;0;Curiosos o Ocasionales
+C217795;4591.48;4591.48;1;961;4;Web;67;Efectivo;0;Compradores de Temporada
+C219640;1578.49;1578.49;1;171;2;Tienda física;26;Efectivo;0;Compradores de Temporada
+C220219;1002.47;1002.47;1;1138;7;Tienda física;46;Otras Tarjetas;0;Curiosos o Ocasionales
+C220857;1178.22;1178.22;1;165;1;Web;32;Otras Tarjetas;1;Curiosos o Ocasionales
+C221967;430.71;430.71;1;969;2;Web;44;Efectivo;1;Clientes Estrella
+C222629;1979.54;1979.54;1;1363;4;Tienda física;44;Tarjeta ECI;0;Compradores de Temporada
+C224456;4724.44;4724.44;1;1342;1;Tienda física;47;Efectivo;1;Compradores de Temporada
+C225165;1718.32;1718.32;1;918;6;Tienda física;54;Tarjeta ECI;1;Compradores de Temporada
+C225280;4402.4;4402.4;1;1071;3;Tienda física;35;Efectivo;1;Compradores de Temporada
+C225708;4737.76;4737.76;1;1081;3;Tienda física;65;Otras Tarjetas;1;Compradores de Temporada
+C227039;3273.41;3273.41;1;523;6;Web;53;Tarjeta ECI;0;Compradores de Temporada
+C227481;753.93;753.93;1;1343;3;Web;23;Otras Tarjetas;1;Clientes Estrella
+C228043;17.44;17.44;1;67;5;Tienda física;23;Efectivo;0;Clientes Estrella
+C228235;1149.25;1149.25;1;328;4;Web;19;Efectivo;1;Curiosos o Ocasionales
+C228237;4435.02;4435.02;1;1367;7;Web;40;Otras Tarjetas;0;Compradores de Temporada
+C228524;1192.93;1192.93;1;1075;6;Tienda física;59;Efectivo;1;Curiosos o Ocasionales
+C229157;3513.19;3513.19;1;1452;5;Tienda física;52;Otras Tarjetas;0;Compradores de Temporada
+C231758;2690.27;2690.27;1;1283;4;Web;47;Tarjeta ECI;0;Compradores de Temporada
+C235571;650.14;650.14;1;579;0;Web;60;Tarjeta ECI;1;Clientes Estrella
+C236892;583.43;583.43;1;640;7;Tienda física;64;Tarjeta ECI;1;Curiosos o Ocasionales
+C240453;236.74;236.74;1;874;1;Web;66;Tarjeta ECI;0;Cazadores de Ofertas
+C240833;4633.43;4633.43;1;940;0;Web;60;Tarjeta ECI;1;Compradores de Temporada
+C241005;179.91;179.91;1;1263;3;Web;65;Otras Tarjetas;1;Clientes Estrella
+C241239;3147.9;3147.9;1;119;0;Tienda física;56;Efectivo;1;Compradores de Temporada
+C241747;4723.27;4723.27;1;40;1;Tienda física;26;Efectivo;1;Compradores de Temporada
+C241934;3278.64;3278.64;1;1251;2;Tienda física;63;Efectivo;1;Compradores de Temporada
+C242056;3993.97;3993.97;1;286;3;Web;37;Tarjeta ECI;0;Compradores de Temporada
+C245057;1952.65;1952.65;1;226;5;Web;47;Otras Tarjetas;0;Compradores de Temporada
+C246122;3224.32;3224.32;1;432;1;Tienda física;57;Otras Tarjetas;1;Compradores de Temporada
+C246985;1002.1;1002.1;1;1413;2;Tienda física;44;Tarjeta ECI;1;Curiosos o Ocasionales
+C247412;2922.86;2922.86;1;213;1;Tienda física;62;Efectivo;0;Compradores de Temporada
+C247669;78.13;78.13;1;715;2;Web;41;Tarjeta ECI;0;Clientes Estrella
+C247719;1084.02;1084.02;1;570;6;Tienda física;39;Otras Tarjetas;0;Curiosos o Ocasionales
+C250329;510.77;510.77;1;1081;2;Web;41;Tarjeta ECI;0;Clientes Estrella
+C250516;1800.63;1800.63;1;225;5;Tienda física;18;Tarjeta ECI;0;Clientes Estrella
+C250999;2259.5;2259.5;1;1035;5;Tienda física;49;Tarjeta ECI;1;Compradores de Temporada
+C252023;1947.54;1947.54;1;859;6;Web;26;Otras Tarjetas;1;Compradores de Temporada
+C252141;1617.55;1617.55;1;613;2;Web;22;Otras Tarjetas;0;Clientes Estrella
+C252255;4273.76;4273.76;1;734;6;Web;20;Tarjeta ECI;1;Compradores de Temporada
+C254678;3776.74;3776.74;1;525;1;Tienda física;19;Efectivo;1;Compradores de Temporada
+C255588;2414.71;2414.71;1;338;1;Tienda física;27;Efectivo;0;Compradores de Temporada
+C255871;879.1;879.1;1;386;4;Tienda física;38;Otras Tarjetas;0;Clientes Estrella
+C258071;3277.18;3277.18;1;1125;5;Web;57;Efectivo;1;Compradores de Temporada
+C258179;2153.87;2153.87;1;275;3;Web;35;Efectivo;0;Compradores de Temporada
+C259284;1913.84;1913.84;1;1407;3;Web;56;Tarjeta ECI;0;Compradores de Temporada
+C260278;3428.29;3428.29;1;323;2;Web;53;Efectivo;1;Compradores de Temporada
+C260416;3809.68;3809.68;1;1030;2;Web;23;Tarjeta ECI;1;Compradores de Temporada
+C260851;2916.64;2916.64;1;1151;6;Tienda física;66;Otras Tarjetas;1;Compradores de Temporada
+C261319;1694.15;1694.15;1;1360;6;Tienda física;54;Tarjeta ECI;1;Compradores de Temporada
+C263310;2405.69;2405.69;1;79;5;Tienda física;65;Tarjeta ECI;1;Compradores de Temporada
+C264267;3016.51;3016.51;1;199;0;Tienda física;40;Otras Tarjetas;1;Compradores de Temporada
+C265120;3213.87;3213.87;1;329;7;Tienda física;30;Otras Tarjetas;0;Compradores de Temporada
+C266375;3001.62;3001.62;1;811;0;Tienda física;21;Otras Tarjetas;1;Compradores de Temporada
+C266498;298.68;298.68;1;927;6;Tienda física;21;Tarjeta ECI;0;Curiosos o Ocasionales
+C267364;666.38;666.38;1;593;3;Tienda física;47;Otras Tarjetas;1;Clientes Estrella
+C267368;1537.51;1537.51;1;1298;7;Tienda física;56;Efectivo;1;Compradores de Temporada
+C268318;1551.78;1551.78;1;1320;4;Tienda física;41;Efectivo;1;Compradores de Temporada
+C269592;3994.56;3994.56;1;956;1;Tienda física;42;Otras Tarjetas;1;Compradores de Temporada
+C269722;2273.6;2273.6;1;1316;5;Web;22;Efectivo;0;Compradores de Temporada
+C270108;1303.87;1303.87;1;432;6;Tienda física;38;Otras Tarjetas;1;Clientes Estrella
+C270958;1639.09;1639.09;1;1277;5;Web;22;Efectivo;0;Clientes Estrella
+C271101;887.25;887.25;1;94;5;Tienda física;34;Efectivo;1;Clientes Estrella
+C271393;1787.36;1787.36;1;1018;4;Web;30;Otras Tarjetas;0;Clientes Estrella
+C272705;4044.38;4044.38;1;81;1;Web;31;Efectivo;1;Compradores de Temporada
+C273827;481.12;481.12;1;1171;2;Tienda física;47;Otras Tarjetas;0;Curiosos o Ocasionales
+C275530;3221.44;3221.44;1;1367;5;Tienda física;49;Tarjeta ECI;1;Compradores de Temporada
+C276013;2258.06;2258.06;1;962;1;Tienda física;43;Tarjeta ECI;0;Compradores de Temporada
+C277129;24.43;24.43;1;1233;7;Tienda física;60;Tarjeta ECI;1;Clientes Estrella
+C277415;1995.46;1995.46;1;648;3;Tienda física;45;Tarjeta ECI;0;Compradores de Temporada
+C278111;3670.02;3670.02;1;80;0;Tienda física;21;Tarjeta ECI;1;Compradores de Temporada
+C280302;4611.04;4611.04;1;33;4;Web;39;Efectivo;0;Compradores de Temporada
+C281853;1810.37;1810.37;1;1028;0;Tienda física;66;Otras Tarjetas;0;Compradores de Temporada
+C282139;1826.23;1826.23;1;639;1;Tienda física;40;Efectivo;1;Compradores de Temporada
+C283043;1209.74;1209.74;1;303;2;Tienda física;41;Efectivo;1;Clientes Estrella
+C283466;320.2;320.2;1;950;6;Web;21;Otras Tarjetas;0;Curiosos o Ocasionales
+C283864;2945.91;2945.91;1;403;5;Tienda física;26;Efectivo;1;Compradores de Temporada
+C284841;369.65;369.65;1;1096;2;Web;37;Efectivo;1;Clientes Estrella
+C286876;2542.84;2542.84;1;1026;1;Tienda física;34;Efectivo;1;Compradores de Temporada
+C288192;4276.87;4276.87;1;507;5;Tienda física;66;Otras Tarjetas;0;Compradores de Temporada
+C289612;496.63;496.63;1;488;0;Tienda física;60;Efectivo;0;Clientes Estrella
+C290051;2436.33;2436.33;1;1391;6;Tienda física;23;Otras Tarjetas;0;Compradores de Temporada
+C290667;2774.61;2774.61;1;1403;7;Web;41;Tarjeta ECI;1;Compradores de Temporada
+C291258;1182.66;1182.66;1;1088;7;Web;62;Efectivo;1;Clientes Estrella
+C292290;1443.01;1443.01;1;864;6;Web;55;Tarjeta ECI;0;Compradores de Temporada
+C292370;731.47;731.47;1;685;4;Web;25;Otras Tarjetas;1;Clientes Estrella
+C292667;4820.16;4820.16;1;72;6;Web;66;Efectivo;1;Compradores de Temporada
+C292984;275.49;275.49;1;1208;2;Tienda física;28;Otras Tarjetas;0;Curiosos o Ocasionales
+C293236;4727.04;4727.04;1;1004;3;Tienda física;55;Otras Tarjetas;0;Compradores de Temporada
+C297948;1260.5;1260.5;1;197;3;Web;32;Efectivo;1;Clientes Estrella
+C300464;365.22;365.22;1;502;6;Tienda física;32;Otras Tarjetas;0;Cazadores de Ofertas
+C300779;307.01;307.01;1;625;2;Tienda física;40;Otras Tarjetas;0;Clientes Estrella
+C303164;1078.82;1078.82;1;102;6;Tienda física;51;Efectivo;1;Cazadores de Ofertas
+C304158;2958.09;2958.09;1;601;6;Tienda física;31;Efectivo;1;Compradores de Temporada
+C304266;4605.38;4605.38;1;1215;4;Web;50;Tarjeta ECI;1;Compradores de Temporada
+C304753;4185.63;4185.63;1;298;5;Tienda física;38;Tarjeta ECI;0;Compradores de Temporada
+C305326;1371.15;1371.15;1;675;2;Tienda física;25;Otras Tarjetas;0;Clientes Estrella
+C307198;2103.29;2103.29;1;1121;6;Web;60;Efectivo;0;Compradores de Temporada
+C308582;2407.95;2407.95;1;636;5;Tienda física;25;Otras Tarjetas;0;Compradores de Temporada
+C310827;2946.82;2946.82;1;270;0;Tienda física;31;Efectivo;0;Compradores de Temporada
+C312003;4754.58;4754.58;1;1132;2;Web;42;Tarjeta ECI;1;Compradores de Temporada
+C316837;4713.6;4713.6;1;1417;1;Web;19;Efectivo;0;Compradores de Temporada
+C318706;3464.47;3464.47;1;121;5;Web;69;Tarjeta ECI;1;Compradores de Temporada
+C319036;1249.72;1249.72;1;192;3;Tienda física;63;Tarjeta ECI;0;Compradores de Temporada
+C319949;831.32;831.32;1;1305;0;Web;56;Tarjeta ECI;0;Curiosos o Ocasionales
+C320809;3407.81;3407.81;1;1411;1;Web;40;Tarjeta ECI;1;Compradores de Temporada
+C321833;403.02;403.02;1;461;3;Web;37;Tarjeta ECI;0;Curiosos o Ocasionales
+C323293;1878.61;1878.61;1;695;3;Tienda física;25;Tarjeta ECI;1;Compradores de Temporada
+C323803;3381.68;3381.68;1;921;6;Tienda física;65;Tarjeta ECI;1;Compradores de Temporada
+C324475;86.69;86.69;1;593;2;Web;27;Tarjeta ECI;1;Cazadores de Ofertas
+C324923;3488.3;3488.3;1;525;4;Web;31;Efectivo;0;Compradores de Temporada
+C325814;2466.96;2466.96;1;1431;5;Tienda física;61;Efectivo;0;Compradores de Temporada
+C326492;4202.68;4202.68;1;789;4;Web;18;Efectivo;1;Compradores de Temporada
+C328117;4299.12;4299.12;1;1277;4;Web;38;Tarjeta ECI;1;Compradores de Temporada
+C328347;772.45;772.45;1;820;7;Tienda física;19;Tarjeta ECI;1;Curiosos o Ocasionales
+C330336;2297.41;2297.41;1;434;7;Tienda física;56;Efectivo;1;Compradores de Temporada
+C331741;2962.74;2962.74;1;1352;6;Web;18;Tarjeta ECI;0;Compradores de Temporada
+C332820;3192.75;3192.75;1;1263;3;Web;61;Efectivo;0;Compradores de Temporada
+C333356;4850.1;4850.1;1;413;5;Tienda física;61;Tarjeta ECI;1;Compradores de Temporada
+C334139;1624.91;1624.91;1;113;4;Tienda física;62;Otras Tarjetas;0;Compradores de Temporada
+C336474;566.97;566.97;1;904;0;Tienda física;37;Efectivo;1;Curiosos o Ocasionales
+C336522;4283.3;4283.3;1;1328;6;Web;46;Otras Tarjetas;1;Compradores de Temporada
+C336754;4972.71;4972.71;1;388;0;Web;61;Efectivo;0;Compradores de Temporada
+C337093;105.99;105.99;1;1239;6;Web;58;Efectivo;0;Clientes Estrella
+C337443;3567.37;3567.37;1;1296;3;Tienda física;45;Efectivo;1;Compradores de Temporada
+C338958;3013.05;3013.05;1;1154;4;Tienda física;30;Otras Tarjetas;0;Compradores de Temporada
+C339702;3086.09;3086.09;1;921;5;Tienda física;30;Tarjeta ECI;1;Compradores de Temporada
+C341556;2868.43;2868.43;1;911;2;Tienda física;64;Efectivo;1;Compradores de Temporada
+C342202;4620.87;4620.87;1;34;1;Tienda física;24;Tarjeta ECI;1;Compradores de Temporada
+C342461;923.25;923.25;1;1364;6;Web;67;Efectivo;1;Clientes Estrella
+C346221;3049.06;3049.06;1;1128;5;Tienda física;68;Otras Tarjetas;1;Compradores de Temporada
+C346225;3876.24;3876.24;1;551;2;Web;53;Otras Tarjetas;0;Compradores de Temporada
+C348608;2059.83;2059.83;1;840;1;Web;30;Efectivo;1;Compradores de Temporada
+C351168;391.76;391.76;1;605;0;Tienda física;48;Tarjeta ECI;1;Clientes Estrella
+C352651;792.1;792.1;1;1399;6;Tienda física;52;Efectivo;0;Clientes Estrella
+C353000;4605.14;4605.14;1;1357;6;Tienda física;21;Tarjeta ECI;1;Compradores de Temporada
+C353778;3774.82;3774.82;1;248;4;Web;55;Tarjeta ECI;1;Compradores de Temporada
+C354452;3194.53;3194.53;1;83;1;Web;44;Efectivo;1;Compradores de Temporada
+C354535;4238.47;4238.47;1;702;1;Tienda física;40;Otras Tarjetas;1;Compradores de Temporada
+C356653;1291.66;1291.66;1;1025;0;Tienda física;38;Otras Tarjetas;1;Compradores de Temporada
+C358459;797.92;797.92;1;1339;6;Web;27;Otras Tarjetas;1;Clientes Estrella
+C358647;3948.9;3948.9;1;1159;7;Web;62;Tarjeta ECI;1;Compradores de Temporada
+C359231;78.62;78.62;1;1383;5;Web;27;Tarjeta ECI;0;Cazadores de Ofertas
+C359438;183.55;183.55;1;496;2;Web;18;Otras Tarjetas;1;Clientes Estrella
+C360407;4998.94;4998.94;1;706;2;Tienda física;27;Efectivo;1;Compradores de Temporada
+C360946;1859.29;1859.29;1;494;3;Web;61;Efectivo;0;Compradores de Temporada
+C361341;1473.26;1473.26;1;858;4;Tienda física;50;Otras Tarjetas;0;Clientes Estrella
+C361363;4259.74;4259.74;1;1454;0;Tienda física;35;Efectivo;0;Compradores de Temporada
+C362190;3568.79;3568.79;1;1031;1;Web;66;Tarjeta ECI;1;Compradores de Temporada
+C362359;307.12;307.12;1;421;7;Web;60;Tarjeta ECI;0;Clientes Estrella
+C363297;150.63;150.63;1;1082;5;Web;27;Otras Tarjetas;1;Curiosos o Ocasionales
+C365528;244.31;244.31;1;1412;6;Web;32;Otras Tarjetas;1;Clientes Estrella
+C366358;322.38;322.38;1;250;2;Web;63;Otras Tarjetas;0;Clientes Estrella
+C367265;2227.69;2227.69;1;992;4;Tienda física;32;Otras Tarjetas;1;Compradores de Temporada
+C367288;1316.18;1316.18;1;1088;0;Web;58;Efectivo;0;Compradores de Temporada
+C367336;4953.67;4953.67;1;433;3;Web;46;Tarjeta ECI;0;Compradores de Temporada
+C369834;2680.89;2680.89;1;1377;1;Web;31;Tarjeta ECI;0;Compradores de Temporada
+C369918;3511.19;3511.19;1;309;2;Tienda física;49;Tarjeta ECI;1;Compradores de Temporada
+C373083;2347.35;2347.35;1;1097;7;Web;49;Tarjeta ECI;0;Compradores de Temporada
+C373869;241.13;241.13;1;281;0;Web;28;Otras Tarjetas;0;Clientes Estrella
+C376834;2214.89;2214.89;1;91;1;Tienda física;43;Tarjeta ECI;1;Compradores de Temporada
+C377195;319.98;319.98;1;1388;5;Web;64;Tarjeta ECI;1;Curiosos o Ocasionales
+C377580;2324.07;2324.07;1;1175;4;Web;58;Efectivo;1;Compradores de Temporada
+C377975;407.15;407.15;1;921;0;Web;45;Otras Tarjetas;0;Clientes Estrella
+C379727;1813.69;1813.69;1;836;6;Tienda física;24;Tarjeta ECI;0;Compradores de Temporada
+C380318;4602.3;4602.3;1;1320;6;Web;34;Otras Tarjetas;1;Compradores de Temporada
+C380895;2919.13;2919.13;1;337;4;Tienda física;56;Otras Tarjetas;0;Compradores de Temporada
+C381079;4469.94;4469.94;1;800;1;Tienda física;37;Efectivo;0;Compradores de Temporada
+C381335;3572.91;3572.91;1;358;7;Tienda física;53;Otras Tarjetas;1;Compradores de Temporada
+C381684;4943.44;4943.44;1;583;0;Tienda física;25;Tarjeta ECI;1;Compradores de Temporada
+C382527;2733.58;2733.58;1;13;3;Web;25;Otras Tarjetas;0;Compradores de Temporada
+C383041;1304.44;1304.44;1;852;2;Web;26;Otras Tarjetas;0;Curiosos o Ocasionales
+C383058;1986.26;1986.26;1;1057;7;Web;64;Otras Tarjetas;0;Compradores de Temporada
+C383929;4129.73;4129.73;1;887;5;Tienda física;20;Otras Tarjetas;0;Compradores de Temporada
+C384121;2960.19;2960.19;1;1416;2;Web;63;Otras Tarjetas;0;Compradores de Temporada
+C384614;2136.57;2136.57;1;771;6;Web;68;Tarjeta ECI;1;Compradores de Temporada
+C385267;2224.68;2224.68;1;1053;2;Tienda física;56;Tarjeta ECI;1;Compradores de Temporada
+C385269;2368.13;2368.13;1;1425;1;Web;54;Tarjeta ECI;0;Compradores de Temporada
+C386545;1772.31;1772.31;1;521;2;Web;63;Efectivo;1;Compradores de Temporada
+C387118;1950.74;1950.74;1;80;7;Tienda física;65;Tarjeta ECI;0;Compradores de Temporada
+C387765;2176.76;2176.76;1;1027;5;Web;19;Otras Tarjetas;1;Compradores de Temporada
+C388764;330.08;330.08;1;975;6;Tienda física;53;Efectivo;1;Clientes Estrella
+C389178;2334.27;2334.27;1;326;6;Tienda física;50;Tarjeta ECI;1;Compradores de Temporada
+C390894;883.91;883.91;1;903;2;Web;43;Otras Tarjetas;1;Curiosos o Ocasionales
+C391569;2880.73;2880.73;1;511;6;Tienda física;58;Tarjeta ECI;0;Compradores de Temporada
+C392733;2127.19;2127.19;1;851;0;Web;68;Efectivo;1;Compradores de Temporada
+C393534;3607.6;3607.6;1;784;0;Tienda física;41;Tarjeta ECI;0;Compradores de Temporada
+C394388;4005.32;4005.32;1;164;7;Tienda física;56;Otras Tarjetas;0;Compradores de Temporada
+C394744;2699.56;2699.56;1;27;0;Web;24;Tarjeta ECI;1;Compradores de Temporada
+C395725;2193.96;2193.96;1;1428;2;Tienda física;35;Tarjeta ECI;1;Compradores de Temporada
+C396523;3611.57;3611.57;1;4;2;Tienda física;36;Tarjeta ECI;1;Compradores de Temporada
+C397227;1033.34;1033.34;1;1015;3;Web;68;Tarjeta ECI;1;Cazadores de Ofertas
+C397270;4092.99;4092.99;1;236;2;Web;47;Otras Tarjetas;0;Compradores de Temporada
+C397988;4569.45;4569.45;1;517;4;Web;66;Efectivo;0;Compradores de Temporada
+C400963;838.91;838.91;1;1366;0;Web;39;Otras Tarjetas;0;Curiosos o Ocasionales
+C401254;1346.44;1346.44;1;209;2;Tienda física;69;Tarjeta ECI;0;Clientes Estrella
+C401624;3729.65;3729.65;1;1425;3;Tienda física;66;Tarjeta ECI;1;Compradores de Temporada
+C402712;3876.55;3876.55;1;312;3;Web;64;Tarjeta ECI;1;Compradores de Temporada
+C402910;2317.64;2317.64;1;1052;4;Tienda física;25;Efectivo;1;Compradores de Temporada
+C403674;342.12;342.12;1;936;5;Tienda física;47;Tarjeta ECI;0;Clientes Estrella
+C404765;2860.82;2860.82;1;1080;2;Web;29;Otras Tarjetas;0;Compradores de Temporada
+C404982;1439.34;1439.34;1;275;1;Web;25;Efectivo;1;Clientes Estrella
+C407488;735.26;735.26;1;682;1;Tienda física;21;Otras Tarjetas;0;Curiosos o Ocasionales
+C408942;1427.4;1427.4;1;933;5;Tienda física;48;Tarjeta ECI;0;Compradores de Temporada
+C409023;120.79;120.79;1;480;7;Web;45;Otras Tarjetas;0;Clientes Estrella
+C409264;2097.79;2097.79;1;1366;3;Web;40;Otras Tarjetas;1;Compradores de Temporada
+C409410;4375.03;4375.03;1;744;0;Web;51;Tarjeta ECI;1;Compradores de Temporada
+C410128;3211.98;3211.98;1;1069;0;Tienda física;18;Tarjeta ECI;0;Compradores de Temporada
+C411273;543.7;543.7;1;385;3;Tienda física;43;Efectivo;0;Curiosos o Ocasionales
+C411773;3200.12;3200.12;1;126;4;Tienda física;60;Efectivo;1;Compradores de Temporada
+C412960;3524.69;3524.69;1;1331;1;Tienda física;33;Efectivo;0;Compradores de Temporada
+C413341;4106.56;4106.56;1;1380;5;Tienda física;53;Efectivo;0;Compradores de Temporada
+C413716;2758.18;2758.18;1;940;1;Tienda física;43;Otras Tarjetas;1;Compradores de Temporada
+C413897;4933.49;4933.49;1;311;5;Tienda física;63;Otras Tarjetas;1;Compradores de Temporada
+C414213;1587.43;1587.43;1;846;1;Tienda física;49;Otras Tarjetas;0;Clientes Estrella
+C414599;386.08;386.08;1;155;0;Web;52;Tarjeta ECI;0;Curiosos o Ocasionales
+C417045;4751.08;4751.08;1;590;0;Tienda física;29;Otras Tarjetas;1;Compradores de Temporada
+C418373;4323.11;4323.11;1;1350;2;Web;40;Efectivo;1;Compradores de Temporada
+C422151;3111.45;3111.45;1;640;2;Web;19;Efectivo;0;Compradores de Temporada
+C422281;4952.92;4952.92;1;850;1;Web;34;Efectivo;1;Compradores de Temporada
+C422284;875.31;875.31;1;769;7;Tienda física;45;Efectivo;0;Clientes Estrella
+C422322;2684.64;2684.64;1;103;6;Tienda física;60;Tarjeta ECI;1;Compradores de Temporada
+C422359;36.49;36.49;1;42;6;Web;67;Efectivo;1;Curiosos o Ocasionales
+C423234;1057.28;1057.28;1;328;1;Tienda física;63;Efectivo;0;Clientes Estrella
+C424425;3316.86;3316.86;1;838;2;Web;50;Efectivo;0;Compradores de Temporada
+C425799;3817.53;3817.53;1;1005;4;Web;52;Efectivo;0;Compradores de Temporada
+C428942;4879.63;4879.63;1;1371;6;Tienda física;35;Efectivo;1;Compradores de Temporada
+C429230;4392.0;4392.0;1;589;2;Tienda física;65;Efectivo;1;Compradores de Temporada
+C429500;1054.45;1054.45;1;871;5;Tienda física;59;Tarjeta ECI;0;Clientes Estrella
+C429790;4757.86;4757.86;1;247;4;Tienda física;18;Efectivo;0;Compradores de Temporada
+C429908;4355.33;4355.33;1;1099;5;Tienda física;39;Efectivo;0;Compradores de Temporada
+C430437;3065.13;3065.13;1;1411;5;Web;60;Otras Tarjetas;0;Compradores de Temporada
+C432836;4252.69;4252.69;1;452;1;Web;59;Otras Tarjetas;0;Compradores de Temporada
+C433473;212.25;212.25;1;1208;4;Web;43;Efectivo;1;Clientes Estrella
+C435214;484.1;484.1;1;1267;5;Web;39;Tarjeta ECI;1;Curiosos o Ocasionales
+C435238;542.63;542.63;1;323;4;Tienda física;37;Tarjeta ECI;0;Clientes Estrella
+C435851;4468.29;4468.29;1;777;5;Tienda física;21;Otras Tarjetas;0;Compradores de Temporada
+C436977;2601.53;2601.53;1;310;1;Tienda física;54;Tarjeta ECI;1;Compradores de Temporada
+C438357;29.55;29.55;1;1173;3;Tienda física;65;Otras Tarjetas;0;Clientes Estrella
+C438376;1339.09;1339.09;1;1339;2;Web;47;Otras Tarjetas;1;Clientes Estrella
+C439041;707.71;707.71;1;1164;4;Tienda física;44;Efectivo;0;Curiosos o Ocasionales
+C439248;989.07;989.07;1;218;6;Web;38;Efectivo;1;Cazadores de Ofertas
+C440266;1939.61;1939.61;1;1084;3;Web;63;Efectivo;1;Compradores de Temporada
+C442359;4063.42;4063.42;1;287;2;Tienda física;46;Otras Tarjetas;1;Compradores de Temporada
+C442688;1123.44;1123.44;1;1048;7;Tienda física;46;Tarjeta ECI;1;Cazadores de Ofertas
+C443432;166.23;166.23;1;692;4;Web;45;Tarjeta ECI;1;Cazadores de Ofertas
+C443648;2355.36;2355.36;1;636;7;Tienda física;21;Tarjeta ECI;1;Compradores de Temporada
+C445123;2266.42;2266.42;1;202;7;Tienda física;30;Otras Tarjetas;1;Compradores de Temporada
+C445671;744.86;744.86;1;1353;5;Web;61;Otras Tarjetas;0;Clientes Estrella
+C446020;4665.57;4665.57;1;1412;5;Web;34;Tarjeta ECI;0;Compradores de Temporada
+C447267;54.73;54.73;1;140;6;Web;33;Tarjeta ECI;1;Clientes Estrella
+C447956;2855.0;2855.0;1;541;5;Tienda física;38;Efectivo;0;Compradores de Temporada
+C448192;628.7;628.7;1;411;6;Tienda física;61;Otras Tarjetas;1;Clientes Estrella
+C448295;4307.6;4307.6;1;1364;7;Web;55;Tarjeta ECI;0;Compradores de Temporada
+C448750;2530.25;2530.25;1;209;4;Web;24;Otras Tarjetas;0;Compradores de Temporada
+C449193;3080.73;3080.73;1;578;4;Web;27;Efectivo;0;Compradores de Temporada
+C450266;242.58;242.58;1;813;2;Web;56;Otras Tarjetas;0;Clientes Estrella
+C450354;2046.15;2046.15;1;768;2;Tienda física;64;Otras Tarjetas;1;Compradores de Temporada
+C450663;4695.12;4695.12;1;597;5;Tienda física;68;Otras Tarjetas;1;Compradores de Temporada
+C451310;2780.71;2780.71;1;437;0;Web;66;Tarjeta ECI;0;Compradores de Temporada
+C451734;1887.99;1887.99;1;848;6;Tienda física;59;Tarjeta ECI;0;Compradores de Temporada
+C452036;3808.66;3808.66;1;480;1;Web;57;Efectivo;1;Compradores de Temporada
+C452176;3463.71;3463.71;1;237;2;Web;41;Efectivo;1;Compradores de Temporada
+C453557;3683.79;3683.79;1;1191;1;Tienda física;32;Otras Tarjetas;1;Compradores de Temporada
+C456391;4191.83;4191.83;1;918;0;Tienda física;40;Tarjeta ECI;0;Compradores de Temporada
+C456776;66.32;66.32;1;1079;3;Tienda física;43;Efectivo;0;Clientes Estrella
+C456811;2062.06;2062.06;1;1251;7;Tienda física;30;Efectivo;1;Compradores de Temporada
+C457797;2524.09;2524.09;1;154;7;Web;42;Efectivo;0;Compradores de Temporada
+C457799;1124.93;1124.93;1;493;2;Web;42;Efectivo;0;Curiosos o Ocasionales
+C459306;3090.23;3090.23;1;199;4;Tienda física;51;Tarjeta ECI;1;Compradores de Temporada
+C459313;1224.3;1224.3;1;1395;0;Tienda física;46;Tarjeta ECI;1;Cazadores de Ofertas
+C460728;2485.1;2485.1;1;153;2;Web;29;Tarjeta ECI;1;Compradores de Temporada
+C460972;4916.0;4916.0;1;829;5;Tienda física;46;Tarjeta ECI;0;Compradores de Temporada
+C461751;3892.23;3892.23;1;250;1;Tienda física;28;Otras Tarjetas;0;Compradores de Temporada
+C463896;3596.59;3596.59;1;1394;4;Tienda física;20;Tarjeta ECI;1;Compradores de Temporada
+C464097;1862.1;1862.1;1;1363;7;Tienda física;40;Tarjeta ECI;0;Cazadores de Ofertas
+C464181;2291.92;2291.92;1;787;3;Web;63;Tarjeta ECI;0;Compradores de Temporada
+C466202;556.73;556.73;1;817;2;Web;19;Tarjeta ECI;0;Curiosos o Ocasionales
+C466765;2613.02;2613.02;1;928;2;Web;50;Efectivo;1;Compradores de Temporada
+C466904;3706.39;3706.39;1;654;4;Web;52;Otras Tarjetas;1;Compradores de Temporada
+C467406;1835.39;1835.39;1;591;1;Tienda física;29;Tarjeta ECI;1;Compradores de Temporada
+C467681;873.9;873.9;1;203;6;Web;66;Efectivo;0;Clientes Estrella
+C467850;2567.98;2567.98;1;683;4;Web;22;Otras Tarjetas;0;Compradores de Temporada
+C468552;59.88;59.88;1;44;4;Web;68;Otras Tarjetas;1;Cazadores de Ofertas
+C468606;2749.61;2749.61;1;1302;3;Web;26;Efectivo;0;Compradores de Temporada
+C471441;2129.22;2129.22;1;191;5;Tienda física;44;Efectivo;0;Compradores de Temporada
+C471574;565.12;565.12;1;639;1;Web;45;Efectivo;0;Curiosos o Ocasionales
+C472221;2737.27;2737.27;1;75;6;Web;41;Efectivo;1;Compradores de Temporada
+C473126;2684.21;2684.21;1;921;2;Tienda física;34;Otras Tarjetas;0;Compradores de Temporada
+C473541;263.07;263.07;1;20;3;Web;26;Efectivo;0;Curiosos o Ocasionales
+C473921;1466.98;1466.98;1;916;3;Web;66;Otras Tarjetas;0;Cazadores de Ofertas
+C474443;4442.91;4442.91;1;1324;7;Tienda física;65;Tarjeta ECI;1;Compradores de Temporada
+C474639;1815.63;1815.63;1;576;0;Web;56;Otras Tarjetas;1;Compradores de Temporada
+C475138;497.22;497.22;1;1366;6;Tienda física;50;Tarjeta ECI;1;Curiosos o Ocasionales
+C475298;2403.34;2403.34;1;1302;2;Tienda física;65;Efectivo;1;Compradores de Temporada
+C477491;2874.78;2874.78;1;612;4;Tienda física;36;Tarjeta ECI;0;Compradores de Temporada
+C477587;380.42;380.42;1;1429;0;Tienda física;22;Otras Tarjetas;1;Curiosos o Ocasionales
+C477743;826.32;826.32;1;107;5;Tienda física;41;Otras Tarjetas;1;Curiosos o Ocasionales
+C477793;1944.4;1944.4;1;212;5;Web;53;Tarjeta ECI;0;Compradores de Temporada
+C478510;4394.08;4394.08;1;520;2;Tienda física;58;Tarjeta ECI;1;Compradores de Temporada
+C480279;2682.01;2682.01;1;842;0;Tienda física;42;Tarjeta ECI;0;Compradores de Temporada
+C483160;1637.33;1637.33;1;144;5;Tienda física;37;Efectivo;0;Clientes Estrella
+C483760;727.26;727.26;1;1083;3;Web;31;Otras Tarjetas;0;Clientes Estrella
+C484458;2022.52;2022.52;1;790;1;Web;25;Otras Tarjetas;1;Compradores de Temporada
+C485499;1075.51;1075.51;1;313;2;Web;34;Otras Tarjetas;0;Curiosos o Ocasionales
+C486007;2601.47;2601.47;1;597;6;Web;56;Otras Tarjetas;0;Compradores de Temporada
+C487214;4861.31;4861.31;1;252;3;Web;43;Tarjeta ECI;0;Compradores de Temporada
+C487397;2382.98;2382.98;1;115;2;Web;52;Otras Tarjetas;1;Compradores de Temporada
+C488500;3545.86;3545.86;1;767;6;Web;27;Efectivo;0;Compradores de Temporada
+C489337;418.53;418.53;1;745;3;Tienda física;68;Otras Tarjetas;0;Cazadores de Ofertas
+C489394;3003.94;3003.94;1;533;6;Web;37;Tarjeta ECI;0;Compradores de Temporada
+C489614;2437.59;2437.59;1;337;1;Tienda física;50;Tarjeta ECI;0;Compradores de Temporada
+C490202;4253.82;4253.82;1;319;6;Web;69;Tarjeta ECI;0;Compradores de Temporada
+C493391;2086.15;2086.15;1;897;0;Web;69;Efectivo;0;Compradores de Temporada
+C494149;1735.25;1735.25;1;162;3;Web;64;Tarjeta ECI;0;Compradores de Temporada
+C495783;391.92;391.92;1;1184;3;Web;69;Tarjeta ECI;1;Curiosos o Ocasionales
+C495902;2030.58;2030.58;1;47;0;Tienda física;33;Tarjeta ECI;0;Compradores de Temporada
+C498519;4654.68;4654.68;1;1089;2;Tienda física;44;Efectivo;0;Compradores de Temporada
+C499209;670.09;670.09;1;686;3;Tienda física;31;Otras Tarjetas;0;Cazadores de Ofertas
+C499666;4951.68;4951.68;1;844;5;Web;29;Efectivo;1;Compradores de Temporada
+C501037;3749.58;3749.58;1;872;4;Web;23;Efectivo;0;Compradores de Temporada
+C501216;51.71;51.71;1;958;6;Tienda física;57;Tarjeta ECI;1;Cazadores de Ofertas
+C502227;1055.13;1055.13;1;1357;0;Web;64;Tarjeta ECI;1;Cazadores de Ofertas
+C502452;4791.17;4791.17;1;1433;5;Tienda física;32;Tarjeta ECI;1;Compradores de Temporada
+C502828;2507.15;2507.15;1;892;3;Tienda física;37;Tarjeta ECI;1;Compradores de Temporada
+C503643;1291.47;1291.47;1;433;3;Tienda física;37;Efectivo;1;Clientes Estrella
+C504904;4264.54;4264.54;1;472;0;Web;32;Tarjeta ECI;1;Compradores de Temporada
+C504916;1336.92;1336.92;1;829;2;Web;21;Tarjeta ECI;1;Cazadores de Ofertas
+C505485;1491.93;1491.93;1;727;3;Web;58;Tarjeta ECI;1;Compradores de Temporada
+C507680;3385.53;3385.53;1;1377;6;Tienda física;53;Tarjeta ECI;0;Compradores de Temporada
+C508248;4133.28;4133.28;1;1004;4;Tienda física;44;Otras Tarjetas;1;Compradores de Temporada
+C508267;2264.18;2264.18;1;370;2;Web;64;Tarjeta ECI;1;Compradores de Temporada
+C512003;3857.05;3857.05;1;1350;3;Tienda física;65;Efectivo;0;Compradores de Temporada
+C512257;4105.21;4105.21;1;1149;0;Tienda física;24;Efectivo;0;Compradores de Temporada
+C513281;4512.13;4512.13;1;68;6;Web;20;Efectivo;1;Compradores de Temporada
+C513457;4562.71;4562.71;1;44;4;Web;24;Otras Tarjetas;0;Compradores de Temporada
+C513991;3736.2;3736.2;1;935;7;Web;21;Efectivo;1;Compradores de Temporada
+C514140;1637.21;1637.21;1;163;6;Tienda física;68;Otras Tarjetas;0;Clientes Estrella
+C515285;2441.94;2441.94;1;415;3;Tienda física;53;Otras Tarjetas;0;Compradores de Temporada
+C515844;534.38;534.38;1;280;0;Web;18;Otras Tarjetas;1;Curiosos o Ocasionales
+C516636;774.42;774.42;1;761;5;Tienda física;54;Tarjeta ECI;1;Clientes Estrella
+C517782;1317.84;1317.84;1;143;1;Web;56;Tarjeta ECI;1;Clientes Estrella
+C518833;3031.69;3031.69;1;899;0;Web;33;Otras Tarjetas;1;Compradores de Temporada
+C518892;3980.56;3980.56;1;1139;3;Tienda física;26;Efectivo;1;Compradores de Temporada
+C519971;4167.83;4167.83;1;1183;1;Web;46;Efectivo;1;Compradores de Temporada
+C520061;2086.42;2086.42;1;460;5;Web;59;Otras Tarjetas;1;Compradores de Temporada
+C523586;2213.16;2213.16;1;1339;3;Tienda física;58;Otras Tarjetas;0;Compradores de Temporada
+C523842;1135.77;1135.77;1;1235;4;Web;49;Efectivo;0;Cazadores de Ofertas
+C524303;2204.17;2204.17;1;1453;4;Tienda física;30;Otras Tarjetas;0;Compradores de Temporada
+C524408;1263.38;1263.38;1;489;6;Tienda física;56;Otras Tarjetas;0;Curiosos o Ocasionales
+C528609;1230.23;1230.23;1;1202;3;Web;68;Efectivo;0;Cazadores de Ofertas
+C530775;1403.37;1403.37;1;829;0;Tienda física;31;Tarjeta ECI;0;Compradores de Temporada
+C531029;2199.96;2199.96;1;758;4;Web;69;Otras Tarjetas;1;Compradores de Temporada
+C531443;2699.28;2699.28;1;1095;1;Tienda física;37;Otras Tarjetas;1;Compradores de Temporada
+C531837;919.88;919.88;1;1074;0;Tienda física;63;Tarjeta ECI;0;Clientes Estrella
+C532690;2692.18;2692.18;1;894;0;Web;24;Tarjeta ECI;1;Compradores de Temporada
+C532974;594.56;594.56;1;266;2;Web;31;Tarjeta ECI;0;Curiosos o Ocasionales
+C533745;118.69;118.69;1;849;7;Web;34;Tarjeta ECI;1;Clientes Estrella
+C533893;4013.83;4013.83;1;593;2;Web;50;Efectivo;0;Compradores de Temporada
+C534116;1176.79;1176.79;1;703;3;Web;22;Otras Tarjetas;1;Curiosos o Ocasionales
+C534131;2924.56;2924.56;1;447;1;Web;52;Otras Tarjetas;1;Compradores de Temporada
+C534459;2926.95;2926.95;1;364;7;Web;22;Tarjeta ECI;0;Compradores de Temporada
+C535077;3474.6;3474.6;1;469;5;Web;45;Tarjeta ECI;0;Compradores de Temporada
+C535296;476.12;476.12;1;254;4;Tienda física;60;Tarjeta ECI;1;Curiosos o Ocasionales
+C536028;1955.93;1955.93;1;467;6;Web;69;Otras Tarjetas;0;Compradores de Temporada
+C536178;989.02;989.02;1;291;6;Web;51;Otras Tarjetas;1;Clientes Estrella
+C536562;538.78;538.78;1;658;5;Tienda física;64;Tarjeta ECI;1;Curiosos o Ocasionales
+C536667;3561.35;3561.35;1;201;7;Web;54;Otras Tarjetas;1;Compradores de Temporada
+C542534;4820.68;4820.68;1;902;1;Tienda física;64;Otras Tarjetas;1;Compradores de Temporada
+C542912;190.98;190.98;1;886;7;Tienda física;35;Efectivo;0;Clientes Estrella
+C543430;878.36;878.36;1;1144;5;Web;20;Efectivo;1;Curiosos o Ocasionales
+C543551;1577.97;1577.97;1;863;1;Web;32;Tarjeta ECI;1;Compradores de Temporada
+C543791;439.22;439.22;1;1442;5;Tienda física;28;Otras Tarjetas;1;Clientes Estrella
+C543920;1264.81;1264.81;1;937;3;Tienda física;22;Efectivo;1;Clientes Estrella
+C545418;1652.98;1652.98;1;471;2;Tienda física;67;Tarjeta ECI;0;Clientes Estrella
+C549409;2633.53;2633.53;1;1051;2;Web;50;Efectivo;0;Compradores de Temporada
+C550488;28.94;28.94;1;1251;2;Web;25;Otras Tarjetas;1;Cazadores de Ofertas
+C551654;3820.23;3820.23;1;705;2;Web;38;Tarjeta ECI;0;Compradores de Temporada
+C551883;2289.93;2289.93;1;775;6;Tienda física;65;Tarjeta ECI;0;Compradores de Temporada
+C552259;809.32;809.32;1;1137;4;Tienda física;50;Efectivo;1;Cazadores de Ofertas
+C552307;2941.68;2941.68;1;146;7;Tienda física;40;Otras Tarjetas;0;Compradores de Temporada
+C554571;3914.7;3914.7;1;483;4;Tienda física;38;Tarjeta ECI;0;Compradores de Temporada
+C555912;3548.66;3548.66;1;92;3;Web;52;Efectivo;1;Compradores de Temporada
+C557158;4750.96;4750.96;1;1096;2;Web;64;Tarjeta ECI;1;Compradores de Temporada
+C558019;3385.8;3385.8;1;209;4;Tienda física;66;Otras Tarjetas;0;Compradores de Temporada
+C558078;2584.8;2584.8;1;432;7;Web;62;Tarjeta ECI;1;Compradores de Temporada
+C558251;3467.66;3467.66;1;1436;1;Web;69;Otras Tarjetas;0;Compradores de Temporada
+C560735;3436.22;3436.22;1;1196;2;Web;21;Otras Tarjetas;0;Compradores de Temporada
+C560836;3957.97;3957.97;1;1131;0;Tienda física;29;Otras Tarjetas;0;Compradores de Temporada
+C562051;4311.85;4311.85;1;1101;5;Web;45;Otras Tarjetas;1;Compradores de Temporada
+C562708;4154.69;4154.69;1;965;3;Web;52;Otras Tarjetas;0;Compradores de Temporada
+C563034;751.68;751.68;1;1369;3;Tienda física;63;Tarjeta ECI;0;Cazadores de Ofertas
+C563524;2260.62;2260.62;1;1256;7;Web;31;Otras Tarjetas;1;Compradores de Temporada
+C564075;1497.04;1497.04;1;1055;3;Web;53;Tarjeta ECI;0;Clientes Estrella
+C564713;522.32;522.32;1;351;0;Web;39;Otras Tarjetas;1;Curiosos o Ocasionales
+C565325;1276.33;1276.33;1;1223;1;Web;39;Tarjeta ECI;0;Clientes Estrella
+C566072;1572.01;1572.01;1;720;1;Tienda física;47;Efectivo;1;Compradores de Temporada
+C566564;3005.17;3005.17;1;921;4;Web;55;Efectivo;1;Compradores de Temporada
+C567031;3133.02;3133.02;1;1130;5;Tienda física;49;Efectivo;0;Compradores de Temporada
+C567142;4731.22;4731.22;1;702;6;Web;29;Otras Tarjetas;0;Compradores de Temporada
+C568213;4139.28;4139.28;1;533;1;Web;28;Efectivo;0;Compradores de Temporada
+C569295;525.53;525.53;1;361;6;Web;44;Efectivo;1;Curiosos o Ocasionales
+C569608;1116.05;1116.05;1;709;3;Web;37;Otras Tarjetas;1;Curiosos o Ocasionales
+C570189;610.32;610.32;1;80;4;Web;34;Efectivo;0;Curiosos o Ocasionales
+C570547;2016.99;2016.99;1;893;4;Web;55;Tarjeta ECI;0;Compradores de Temporada
+C571543;4472.28;4472.28;1;1270;7;Tienda física;57;Tarjeta ECI;0;Compradores de Temporada
+C571895;3253.38;3253.38;1;439;0;Web;67;Otras Tarjetas;0;Compradores de Temporada
+C573359;156.55;156.55;1;691;3;Web;58;Efectivo;1;Curiosos o Ocasionales
+C574385;1222.99;1222.99;1;702;6;Tienda física;51;Efectivo;1;Cazadores de Ofertas
+C575539;2953.97;2953.97;1;1353;3;Web;66;Tarjeta ECI;1;Compradores de Temporada
+C576679;3254.64;3254.64;1;469;0;Web;23;Tarjeta ECI;0;Compradores de Temporada
+C577347;33.33;33.33;1;404;4;Tienda física;66;Otras Tarjetas;0;Cazadores de Ofertas
+C577993;2038.63;2038.63;1;352;1;Web;29;Otras Tarjetas;0;Compradores de Temporada
+C578459;1093.76;1093.76;1;1096;3;Tienda física;64;Otras Tarjetas;1;Curiosos o Ocasionales
+C578554;1224.46;1224.46;1;513;7;Web;52;Efectivo;1;Clientes Estrella
+C578616;1403.3;1403.3;1;456;3;Tienda física;42;Efectivo;0;Cazadores de Ofertas
+C582278;600.49;600.49;1;359;6;Web;26;Tarjeta ECI;0;Cazadores de Ofertas
+C582364;2124.97;2124.97;1;445;5;Tienda física;22;Tarjeta ECI;1;Compradores de Temporada
+C582789;2802.69;2802.69;1;845;0;Tienda física;52;Efectivo;0;Compradores de Temporada
+C584453;4035.21;4035.21;1;1415;0;Web;23;Otras Tarjetas;0;Compradores de Temporada
+C584628;4198.25;4198.25;1;787;7;Web;37;Tarjeta ECI;0;Compradores de Temporada
+C585089;954.48;954.48;1;486;7;Web;68;Tarjeta ECI;0;Clientes Estrella
+C585649;1956.23;1956.23;1;154;6;Tienda física;25;Otras Tarjetas;0;Compradores de Temporada
+C585855;4407.94;4407.94;1;1420;5;Web;46;Efectivo;0;Compradores de Temporada
+C586801;602.04;602.04;1;529;3;Tienda física;33;Tarjeta ECI;1;Curiosos o Ocasionales
+C587338;1164.58;1164.58;1;821;4;Tienda física;64;Tarjeta ECI;1;Clientes Estrella
+C588151;509.23;509.23;1;389;3;Tienda física;66;Tarjeta ECI;0;Curiosos o Ocasionales
+C588249;1103.44;1103.44;1;448;5;Web;63;Otras Tarjetas;0;Clientes Estrella
+C588466;4286.45;4286.45;1;319;3;Web;42;Efectivo;0;Compradores de Temporada
+C588953;1195.09;1195.09;1;703;5;Tienda física;38;Efectivo;1;Curiosos o Ocasionales
+C589658;4095.77;4095.77;1;1348;2;Tienda física;23;Tarjeta ECI;0;Compradores de Temporada
+C590918;3708.17;3708.17;1;169;1;Web;43;Tarjeta ECI;0;Compradores de Temporada
+C591892;1290.47;1290.47;1;1427;0;Web;22;Tarjeta ECI;1;Curiosos o Ocasionales
+C592526;1691.12;1691.12;1;581;7;Web;55;Efectivo;0;Compradores de Temporada
+C592716;2014.63;2014.63;1;1096;7;Tienda física;37;Otras Tarjetas;0;Compradores de Temporada
+C593645;1279.83;1279.83;1;1255;5;Tienda física;61;Efectivo;1;Clientes Estrella
+C594482;4733.65;4733.65;1;778;1;Web;27;Otras Tarjetas;1;Compradores de Temporada
+C595615;2878.81;2878.81;1;946;7;Tienda física;69;Otras Tarjetas;1;Compradores de Temporada
+C596797;3340.42;3340.42;1;1322;4;Web;22;Tarjeta ECI;0;Compradores de Temporada
+C598414;3289.4;3289.4;1;329;5;Web;28;Efectivo;0;Compradores de Temporada
+C598630;660.49;660.49;1;700;0;Tienda física;46;Otras Tarjetas;0;Clientes Estrella
+C598797;4643.0;4643.0;1;876;5;Tienda física;67;Efectivo;0;Compradores de Temporada
+C599647;4574.08;4574.08;1;1447;0;Web;54;Otras Tarjetas;1;Compradores de Temporada
+C599923;90.25;90.25;1;1226;5;Web;34;Otras Tarjetas;1;Clientes Estrella
+C602171;3004.83;3004.83;1;312;1;Web;47;Efectivo;1;Compradores de Temporada
+C602187;2898.12;2898.12;1;165;2;Tienda física;22;Efectivo;0;Compradores de Temporada
+C602330;2858.11;2858.11;1;787;7;Web;29;Tarjeta ECI;0;Compradores de Temporada
+C604921;2695.98;2695.98;1;426;6;Web;45;Otras Tarjetas;0;Compradores de Temporada
+C605655;1769.53;1769.53;1;1373;7;Tienda física;30;Tarjeta ECI;1;Compradores de Temporada
+C607639;4685.45;4685.45;1;42;5;Web;20;Tarjeta ECI;0;Compradores de Temporada
+C608584;2546.36;2546.36;1;1029;7;Web;67;Efectivo;1;Compradores de Temporada
+C609320;4308.01;4308.01;1;840;5;Web;48;Otras Tarjetas;1;Compradores de Temporada
+C609332;3362.32;3362.32;1;1216;1;Tienda física;65;Tarjeta ECI;1;Compradores de Temporada
+C609382;1160.29;1160.29;1;48;2;Tienda física;43;Efectivo;1;Clientes Estrella
+C610901;150.7;150.7;1;901;5;Web;52;Efectivo;1;Cazadores de Ofertas
+C611074;66.83;66.83;1;1032;7;Tienda física;45;Efectivo;1;Clientes Estrella
+C612977;2516.25;2516.25;1;1427;7;Tienda física;27;Tarjeta ECI;0;Compradores de Temporada
+C613534;3334.47;3334.47;1;554;0;Web;36;Tarjeta ECI;1;Compradores de Temporada
+C613754;2865.84;2865.84;1;1035;2;Web;30;Efectivo;0;Compradores de Temporada
+C614024;2331.25;2331.25;1;1058;5;Tienda física;35;Otras Tarjetas;1;Compradores de Temporada
+C614688;1554.28;1554.28;1;1013;3;Web;51;Efectivo;1;Compradores de Temporada
+C614847;3078.56;3078.56;1;1444;7;Tienda física;61;Otras Tarjetas;0;Compradores de Temporada
+C615849;2076.77;2076.77;1;974;2;Web;47;Otras Tarjetas;0;Compradores de Temporada
+C615992;1125.27;1125.27;1;1001;0;Web;62;Tarjeta ECI;1;Clientes Estrella
+C616445;4827.34;4827.34;1;613;7;Tienda física;59;Otras Tarjetas;0;Compradores de Temporada
+C616722;1452.96;1452.96;1;604;7;Tienda física;31;Tarjeta ECI;1;Clientes Estrella
+C618944;3935.22;3935.22;1;481;0;Web;32;Efectivo;1;Compradores de Temporada
+C620705;2944.47;2944.47;1;1171;6;Tienda física;64;Otras Tarjetas;1;Compradores de Temporada
+C622008;1415.88;1415.88;1;1348;2;Tienda física;50;Efectivo;1;Clientes Estrella
+C624034;4584.09;4584.09;1;980;7;Tienda física;39;Tarjeta ECI;1;Compradores de Temporada
+C624983;636.78;636.78;1;832;5;Web;18;Efectivo;0;Clientes Estrella
+C626432;762.42;762.42;1;1350;5;Web;38;Tarjeta ECI;0;Clientes Estrella
+C626511;2628.13;2628.13;1;194;1;Web;31;Otras Tarjetas;1;Compradores de Temporada
+C626730;3991.36;3991.36;1;1381;1;Tienda física;39;Efectivo;1;Compradores de Temporada
+C627191;1610.06;1610.06;1;1348;7;Web;53;Tarjeta ECI;0;Compradores de Temporada
+C627644;1212.2;1212.2;1;1353;1;Tienda física;25;Otras Tarjetas;0;Clientes Estrella
+C627811;4330.59;4330.59;1;186;1;Tienda física;34;Otras Tarjetas;0;Compradores de Temporada
+C628315;3323.74;3323.74;1;186;5;Web;53;Efectivo;1;Compradores de Temporada
+C628593;2093.24;2093.24;1;332;2;Web;49;Otras Tarjetas;0;Compradores de Temporada
+C629781;623.07;623.07;1;839;0;Web;59;Otras Tarjetas;1;Clientes Estrella
+C630796;527.93;527.93;1;693;4;Tienda física;22;Efectivo;1;Clientes Estrella
+C631530;2364.76;2364.76;1;1213;6;Web;19;Otras Tarjetas;1;Compradores de Temporada
+C632181;679.29;679.29;1;252;2;Tienda física;33;Efectivo;0;Curiosos o Ocasionales
+C632347;795.22;795.22;1;162;4;Tienda física;51;Efectivo;0;Curiosos o Ocasionales
+C632583;1177.15;1177.15;1;465;7;Tienda física;56;Otras Tarjetas;1;Cazadores de Ofertas
+C632709;3631.82;3631.82;1;1033;0;Web;31;Otras Tarjetas;1;Compradores de Temporada
+C633055;554.25;554.25;1;351;7;Web;51;Otras Tarjetas;1;Curiosos o Ocasionales
+C633408;2277.05;2277.05;1;842;0;Web;43;Otras Tarjetas;1;Compradores de Temporada
+C633644;3816.16;3816.16;1;639;1;Tienda física;49;Efectivo;0;Compradores de Temporada
+C633987;3252.02;3252.02;1;1009;7;Web;25;Tarjeta ECI;1;Compradores de Temporada
+C634516;1203.15;1203.15;1;472;0;Tienda física;54;Tarjeta ECI;1;Curiosos o Ocasionales
+C635291;2170.68;2170.68;1;893;0;Web;32;Otras Tarjetas;1;Compradores de Temporada
+C635501;3465.39;3465.39;1;629;3;Tienda física;38;Efectivo;1;Compradores de Temporada
+C635512;2081.2;2081.2;1;393;3;Web;34;Otras Tarjetas;1;Compradores de Temporada
+C635658;3186.02;3186.02;1;1095;3;Web;21;Efectivo;0;Compradores de Temporada
+C637369;2566.07;2566.07;1;1353;4;Web;34;Efectivo;0;Compradores de Temporada
+C637689;2113.64;2113.64;1;704;3;Tienda física;26;Otras Tarjetas;1;Compradores de Temporada
+C639798;642.13;642.13;1;97;2;Web;29;Tarjeta ECI;0;Clientes Estrella
+C639974;733.69;733.69;1;735;6;Web;64;Tarjeta ECI;0;Clientes Estrella
+C642820;1064.27;1064.27;1;321;2;Tienda física;18;Tarjeta ECI;1;Cazadores de Ofertas
+C643187;4263.35;4263.35;1;1174;2;Tienda física;49;Efectivo;0;Compradores de Temporada
+C643765;4301.99;4301.99;1;392;5;Tienda física;54;Tarjeta ECI;0;Compradores de Temporada
+C644005;2441.15;2441.15;1;470;7;Tienda física;43;Tarjeta ECI;0;Compradores de Temporada
+C644363;4104.86;4104.86;1;111;6;Web;52;Efectivo;0;Compradores de Temporada
+C644941;2668.93;2668.93;1;432;3;Tienda física;30;Efectivo;0;Compradores de Temporada
+C646804;3205.3;3205.3;1;1182;0;Web;52;Efectivo;0;Compradores de Temporada
+C647615;215.69;215.69;1;521;3;Tienda física;43;Efectivo;1;Clientes Estrella
+C649395;2902.54;2902.54;1;203;0;Tienda física;56;Tarjeta ECI;1;Compradores de Temporada
+C649817;3742.39;3742.39;1;1457;0;Tienda física;42;Tarjeta ECI;1;Compradores de Temporada
+C649887;1024.32;1024.32;1;1133;7;Web;53;Otras Tarjetas;0;Curiosos o Ocasionales
+C650612;4270.76;4270.76;1;937;1;Web;39;Tarjeta ECI;0;Compradores de Temporada
+C651524;4080.68;4080.68;1;910;2;Tienda física;29;Tarjeta ECI;1;Compradores de Temporada
+C652483;3379.24;3379.24;1;962;2;Tienda física;55;Otras Tarjetas;0;Compradores de Temporada
+C654663;4668.42;4668.42;1;1238;2;Tienda física;28;Efectivo;0;Compradores de Temporada
+C655146;4595.67;4595.67;1;783;5;Tienda física;46;Tarjeta ECI;0;Compradores de Temporada
+C655758;3025.14;3025.14;1;417;2;Tienda física;34;Tarjeta ECI;1;Compradores de Temporada
+C657245;3121.6;3121.6;1;719;7;Tienda física;39;Efectivo;0;Compradores de Temporada
+C657478;2464.16;2464.16;1;1230;5;Tienda física;62;Otras Tarjetas;1;Compradores de Temporada
+C658033;4234.4;4234.4;1;1076;3;Tienda física;27;Tarjeta ECI;1;Compradores de Temporada
+C660787;390.37;390.37;1;566;6;Web;31;Efectivo;0;Curiosos o Ocasionales
+C662440;2251.6;2251.6;1;1297;5;Web;33;Tarjeta ECI;1;Compradores de Temporada
+C662677;2754.48;2754.48;1;351;6;Tienda física;48;Otras Tarjetas;0;Compradores de Temporada
+C662982;563.71;563.71;1;802;0;Web;34;Tarjeta ECI;1;Curiosos o Ocasionales
+C664203;3227.67;3227.67;1;1241;7;Tienda física;31;Tarjeta ECI;1;Compradores de Temporada
+C665600;1459.36;1459.36;1;1140;7;Tienda física;44;Tarjeta ECI;0;Curiosos o Ocasionales
+C666146;553.78;553.78;1;940;6;Tienda física;37;Otras Tarjetas;0;Clientes Estrella
+C666339;4796.93;4796.93;1;1133;3;Tienda física;44;Otras Tarjetas;0;Compradores de Temporada
+C666858;1315.82;1315.82;1;1024;6;Web;38;Tarjeta ECI;0;Curiosos o Ocasionales
+C666991;4778.3;4778.3;1;808;0;Web;60;Otras Tarjetas;0;Compradores de Temporada
+C667080;4841.74;4841.74;1;1378;4;Web;69;Otras Tarjetas;1;Compradores de Temporada
+C667806;3460.1;3460.1;1;870;0;Tienda física;28;Efectivo;1;Compradores de Temporada
+C669003;3531.0;3531.0;1;1268;6;Tienda física;52;Efectivo;0;Compradores de Temporada
+C669207;4179.2;4179.2;1;886;0;Tienda física;61;Efectivo;1;Compradores de Temporada
+C669925;370.84;370.84;1;58;5;Tienda física;66;Otras Tarjetas;0;Clientes Estrella
+C673010;2738.2;2738.2;1;456;4;Web;39;Tarjeta ECI;0;Compradores de Temporada
+C673053;4748.67;4748.67;1;119;6;Tienda física;56;Tarjeta ECI;0;Compradores de Temporada
+C673193;2193.45;2193.45;1;217;2;Tienda física;68;Tarjeta ECI;0;Compradores de Temporada
+C673200;3578.35;3578.35;1;195;7;Tienda física;42;Tarjeta ECI;1;Compradores de Temporada
+C673466;4949.74;4949.74;1;874;0;Tienda física;67;Tarjeta ECI;1;Compradores de Temporada
+C673571;3635.98;3635.98;1;215;3;Web;19;Efectivo;0;Compradores de Temporada
+C676508;1636.05;1636.05;1;1184;1;Web;36;Efectivo;1;Compradores de Temporada
+C677146;4301.3;4301.3;1;326;7;Web;68;Otras Tarjetas;1;Compradores de Temporada
+C677617;1860.64;1860.64;1;839;7;Web;20;Efectivo;1;Compradores de Temporada
+C678190;3214.81;3214.81;1;1142;0;Web;53;Efectivo;1;Compradores de Temporada
+C679688;4973.92;4973.92;1;1412;2;Web;65;Otras Tarjetas;0;Compradores de Temporada
+C680332;3147.82;3147.82;1;1278;5;Web;29;Tarjeta ECI;0;Compradores de Temporada
+C681893;1853.82;1853.82;1;644;6;Tienda física;33;Tarjeta ECI;0;Compradores de Temporada
+C681960;816.11;816.11;1;185;7;Web;24;Efectivo;1;Clientes Estrella
+C682324;3970.12;3970.12;1;430;2;Tienda física;35;Tarjeta ECI;0;Compradores de Temporada
+C683072;2298.72;2298.72;1;968;4;Tienda física;63;Efectivo;0;Compradores de Temporada
+C687404;1951.52;1951.52;1;1190;7;Tienda física;49;Efectivo;1;Compradores de Temporada
+C687587;1406.46;1406.46;1;161;6;Tienda física;67;Otras Tarjetas;1;Compradores de Temporada
+C688692;3811.26;3811.26;1;1348;2;Tienda física;23;Tarjeta ECI;1;Compradores de Temporada
+C692556;531.51;531.51;1;316;2;Web;20;Tarjeta ECI;1;Clientes Estrella
+C694364;3565.34;3565.34;1;710;7;Web;21;Efectivo;1;Compradores de Temporada
+C697807;3674.19;3674.19;1;384;1;Tienda física;46;Otras Tarjetas;1;Compradores de Temporada
+C698088;1583.55;1583.55;1;540;6;Web;49;Efectivo;0;Compradores de Temporada
+C698116;1156.57;1156.57;1;743;0;Web;40;Tarjeta ECI;1;Cazadores de Ofertas
+C698344;2793.66;2793.66;1;811;2;Web;18;Otras Tarjetas;0;Compradores de Temporada
+C699308;2214.02;2214.02;1;124;1;Web;54;Otras Tarjetas;0;Compradores de Temporada
+C700287;2498.3;2498.3;1;1093;0;Web;22;Otras Tarjetas;0;Compradores de Temporada
+C700327;3377.64;3377.64;1;1107;5;Tienda física;47;Efectivo;1;Compradores de Temporada
+C700441;3873.83;3873.83;1;222;4;Tienda física;65;Tarjeta ECI;1;Compradores de Temporada
+C700639;1741.05;1741.05;1;386;5;Tienda física;68;Tarjeta ECI;1;Compradores de Temporada
+C700859;4143.87;4143.87;1;1092;6;Tienda física;68;Otras Tarjetas;0;Compradores de Temporada
+C701314;2174.94;2174.94;1;628;7;Web;20;Otras Tarjetas;1;Compradores de Temporada
+C702164;1634.4;1634.4;1;1309;1;Web;29;Efectivo;1;Compradores de Temporada
+C705515;4802.22;4802.22;1;1352;0;Web;45;Efectivo;0;Compradores de Temporada
+C705566;2189.99;2189.99;1;893;5;Tienda física;18;Otras Tarjetas;1;Compradores de Temporada
+C706206;4537.78;4537.78;1;285;7;Tienda física;64;Efectivo;0;Compradores de Temporada
+C707000;2356.62;2356.62;1;1304;3;Web;45;Otras Tarjetas;1;Compradores de Temporada
+C709123;3831.84;3831.84;1;1022;3;Tienda física;27;Efectivo;0;Compradores de Temporada
+C711994;4022.54;4022.54;1;634;4;Web;31;Efectivo;1;Compradores de Temporada
+C714914;4807.76;4807.76;1;122;5;Web;42;Efectivo;0;Compradores de Temporada
+C715134;4200.82;4200.82;1;758;4;Tienda física;34;Tarjeta ECI;1;Compradores de Temporada
+C715999;1622.32;1622.32;1;950;3;Web;44;Tarjeta ECI;1;Compradores de Temporada
+C719109;2419.84;2419.84;1;487;4;Tienda física;63;Otras Tarjetas;0;Compradores de Temporada
+C720437;671.78;671.78;1;1075;1;Tienda física;56;Tarjeta ECI;0;Clientes Estrella
+C720563;3715.11;3715.11;1;875;7;Tienda física;61;Otras Tarjetas;1;Compradores de Temporada
+C720794;4605.95;4605.95;1;778;1;Tienda física;34;Efectivo;1;Compradores de Temporada
+C721401;1255.49;1255.49;1;710;3;Tienda física;23;Tarjeta ECI;0;Compradores de Temporada
+C722790;4988.87;4988.87;1;511;2;Tienda física;41;Efectivo;1;Compradores de Temporada
+C723750;2099.62;2099.62;1;619;6;Tienda física;34;Otras Tarjetas;0;Compradores de Temporada
+C725688;2870.74;2870.74;1;588;1;Web;64;Tarjeta ECI;0;Compradores de Temporada
+C725692;4265.48;4265.48;1;79;2;Tienda física;20;Otras Tarjetas;1;Compradores de Temporada
+C725779;1418.9;1418.9;1;289;1;Web;27;Tarjeta ECI;1;Curiosos o Ocasionales
+C725834;4005.11;4005.11;1;563;2;Tienda física;62;Otras Tarjetas;0;Compradores de Temporada
+C726303;2424.6;2424.6;1;718;1;Tienda física;21;Tarjeta ECI;1;Compradores de Temporada
+C727899;507.0;507.0;1;586;4;Tienda física;58;Tarjeta ECI;0;Curiosos o Ocasionales
+C727987;102.17;102.17;1;130;5;Web;68;Efectivo;1;Clientes Estrella
+C728310;976.07;976.07;1;1345;3;Tienda física;48;Tarjeta ECI;1;Curiosos o Ocasionales
+C729454;3430.49;3430.49;1;572;1;Web;56;Otras Tarjetas;1;Compradores de Temporada
+C730745;597.62;597.62;1;878;0;Tienda física;27;Otras Tarjetas;1;Curiosos o Ocasionales
+C731412;1857.82;1857.82;1;698;4;Web;26;Tarjeta ECI;1;Compradores de Temporada
+C731859;1552.09;1552.09;1;1048;5;Web;33;Efectivo;1;Compradores de Temporada
+C732714;2946.27;2946.27;1;1123;0;Tienda física;62;Otras Tarjetas;1;Compradores de Temporada
+C737150;3726.8;3726.8;1;756;0;Web;63;Efectivo;0;Compradores de Temporada
+C737811;3159.79;3159.79;1;215;2;Tienda física;62;Tarjeta ECI;1;Compradores de Temporada
+C740802;3895.86;3895.86;1;86;4;Web;33;Tarjeta ECI;0;Compradores de Temporada
+C742416;3304.98;3304.98;1;438;7;Tienda física;62;Otras Tarjetas;1;Compradores de Temporada
+C743456;29.55;29.55;1;315;2;Web;25;Otras Tarjetas;0;Cazadores de Ofertas
+C744162;3246.66;3246.66;1;1316;6;Tienda física;21;Otras Tarjetas;0;Compradores de Temporada
+C744556;4868.72;4868.72;1;803;1;Tienda física;63;Otras Tarjetas;1;Compradores de Temporada
+C747760;3985.25;3985.25;1;366;6;Web;34;Tarjeta ECI;1;Compradores de Temporada
+C748109;39.19;39.19;1;492;4;Tienda física;20;Otras Tarjetas;1;Cazadores de Ofertas
+C748636;3038.83;3038.83;1;951;2;Web;48;Efectivo;0;Compradores de Temporada
+C748718;2326.0;2326.0;1;1382;5;Web;42;Otras Tarjetas;1;Compradores de Temporada
+C748792;910.57;910.57;1;35;5;Tienda física;39;Tarjeta ECI;1;Curiosos o Ocasionales
+C749287;2028.08;2028.08;1;535;5;Web;52;Otras Tarjetas;1;Compradores de Temporada
+C749570;3050.12;3050.12;1;958;2;Web;51;Efectivo;1;Compradores de Temporada
+C750518;4248.03;4248.03;1;1419;4;Web;61;Otras Tarjetas;0;Compradores de Temporada
+C751997;3039.3;3039.3;1;1210;4;Tienda física;62;Otras Tarjetas;0;Compradores de Temporada
+C754824;148.36;148.36;1;496;6;Tienda física;24;Otras Tarjetas;0;Clientes Estrella
+C754891;2649.56;2649.56;1;281;3;Web;66;Tarjeta ECI;1;Compradores de Temporada
+C754999;2480.39;2480.39;1;1032;6;Tienda física;28;Otras Tarjetas;0;Compradores de Temporada
+C755564;4300.02;4300.02;1;808;4;Tienda física;23;Efectivo;0;Compradores de Temporada
+C755634;2899.57;2899.57;1;521;0;Tienda física;64;Otras Tarjetas;0;Compradores de Temporada
+C758525;144.32;144.32;1;549;7;Web;69;Efectivo;0;Curiosos o Ocasionales
+C758619;4235.5;4235.5;1;899;7;Web;49;Efectivo;1;Compradores de Temporada
+C759247;349.89;349.89;1;1149;2;Web;23;Efectivo;0;Curiosos o Ocasionales
+C759595;4238.64;4238.64;1;1251;2;Tienda física;45;Efectivo;1;Compradores de Temporada
+C760161;949.3;949.3;1;83;2;Web;29;Tarjeta ECI;0;Curiosos o Ocasionales
+C760177;2494.55;2494.55;1;805;7;Web;22;Tarjeta ECI;1;Compradores de Temporada
+C760605;827.06;827.06;1;676;4;Tienda física;69;Tarjeta ECI;1;Curiosos o Ocasionales
+C760737;1590.51;1590.51;1;181;2;Web;40;Tarjeta ECI;1;Clientes Estrella
+C762620;1558.22;1558.22;1;1388;5;Tienda física;64;Tarjeta ECI;0;Compradores de Temporada
+C763927;554.94;554.94;1;1065;6;Tienda física;35;Efectivo;0;Clientes Estrella
+C764849;2850.78;2850.78;1;796;1;Web;43;Tarjeta ECI;1;Compradores de Temporada
+C764996;3772.01;3772.01;1;835;6;Web;66;Otras Tarjetas;1;Compradores de Temporada
+C766086;968.85;968.85;1;341;6;Tienda física;53;Efectivo;1;Curiosos o Ocasionales
+C767130;1430.6;1430.6;1;1305;2;Web;52;Efectivo;1;Clientes Estrella
+C769508;2064.65;2064.65;1;1058;3;Tienda física;36;Otras Tarjetas;1;Compradores de Temporada
+C770182;2137.84;2137.84;1;235;3;Tienda física;41;Otras Tarjetas;0;Compradores de Temporada
+C770580;3625.84;3625.84;1;725;6;Web;41;Efectivo;1;Compradores de Temporada
+C772081;3157.28;3157.28;1;1379;2;Tienda física;44;Tarjeta ECI;0;Compradores de Temporada
+C772369;1041.51;1041.51;1;981;0;Tienda física;40;Otras Tarjetas;1;Clientes Estrella
+C774071;1432.31;1432.31;1;525;0;Tienda física;21;Otras Tarjetas;0;Curiosos o Ocasionales
+C774203;771.44;771.44;1;319;1;Tienda física;28;Efectivo;1;Curiosos o Ocasionales
+C774254;4224.02;4224.02;1;1045;4;Web;22;Otras Tarjetas;1;Compradores de Temporada
+C774483;2283.2;2283.2;1;1094;4;Web;62;Efectivo;0;Compradores de Temporada
+C774960;2128.9;2128.9;1;980;7;Web;69;Otras Tarjetas;1;Compradores de Temporada
+C775287;4565.17;4565.17;1;346;1;Tienda física;37;Tarjeta ECI;0;Compradores de Temporada
+C778916;3351.85;3351.85;1;145;3;Web;41;Tarjeta ECI;1;Compradores de Temporada
+C779821;4220.22;4220.22;1;394;6;Tienda física;18;Otras Tarjetas;1;Compradores de Temporada
+C780387;2704.56;2704.56;1;1115;1;Web;59;Tarjeta ECI;1;Compradores de Temporada
+C780546;4294.67;4294.67;1;724;2;Web;27;Otras Tarjetas;1;Compradores de Temporada
+C782878;212.11;212.11;1;133;6;Tienda física;52;Efectivo;1;Clientes Estrella
+C784556;3483.9;3483.9;1;93;4;Web;54;Efectivo;0;Compradores de Temporada
+C784955;1374.86;1374.86;1;391;0;Web;68;Otras Tarjetas;1;Cazadores de Ofertas
+C785510;3669.93;3669.93;1;656;1;Web;60;Tarjeta ECI;1;Compradores de Temporada
+C788570;3070.83;3070.83;1;242;4;Tienda física;63;Tarjeta ECI;1;Compradores de Temporada
+C790036;2992.89;2992.89;1;548;7;Web;47;Otras Tarjetas;1;Compradores de Temporada
+C790160;4985.44;4985.44;1;730;7;Web;42;Otras Tarjetas;1;Compradores de Temporada
+C790210;293.8;293.8;1;954;7;Tienda física;34;Efectivo;1;Clientes Estrella
+C790562;2671.35;2671.35;1;1161;6;Tienda física;46;Tarjeta ECI;1;Compradores de Temporada
+C790578;1846.67;1846.67;1;1096;4;Tienda física;61;Tarjeta ECI;1;Compradores de Temporada
+C790786;3380.51;3380.51;1;1177;6;Tienda física;58;Tarjeta ECI;0;Compradores de Temporada
+C790983;4603.47;4603.47;1;301;4;Web;43;Otras Tarjetas;1;Compradores de Temporada
+C791858;547.9;547.9;1;982;7;Tienda física;59;Tarjeta ECI;0;Clientes Estrella
+C792264;2260.68;2260.68;1;1279;4;Tienda física;65;Efectivo;1;Compradores de Temporada
+C792502;4448.43;4448.43;1;375;7;Tienda física;33;Otras Tarjetas;1;Compradores de Temporada
+C793127;3707.95;3707.95;1;241;1;Tienda física;20;Tarjeta ECI;0;Compradores de Temporada
+C793171;1529.9;1529.9;1;1057;6;Tienda física;43;Efectivo;0;Clientes Estrella
+C793571;4546.59;4546.59;1;384;0;Tienda física;45;Efectivo;0;Compradores de Temporada
+C793786;682.32;682.32;1;1083;4;Web;50;Tarjeta ECI;1;Cazadores de Ofertas
+C793861;3233.59;3233.59;1;482;6;Web;20;Efectivo;0;Compradores de Temporada
+C794148;3951.26;3951.26;1;855;4;Web;55;Efectivo;1;Compradores de Temporada
+C794205;4225.14;4225.14;1;820;2;Tienda física;62;Otras Tarjetas;0;Compradores de Temporada
+C795393;407.08;407.08;1;1018;3;Tienda física;60;Otras Tarjetas;1;Curiosos o Ocasionales
+C795682;3722.32;3722.32;1;852;2;Tienda física;41;Tarjeta ECI;1;Compradores de Temporada
+C796028;482.37;482.37;1;1139;4;Tienda física;60;Tarjeta ECI;1;Curiosos o Ocasionales
+C797048;376.17;376.17;1;1133;2;Tienda física;24;Otras Tarjetas;1;Clientes Estrella
+C797308;3037.56;3037.56;1;259;6;Tienda física;35;Efectivo;0;Compradores de Temporada
+C798373;1138.25;1138.25;1;1211;2;Web;41;Tarjeta ECI;1;Curiosos o Ocasionales
+C798626;3968.54;3968.54;1;1141;4;Web;20;Tarjeta ECI;0;Compradores de Temporada
+C798789;4171.64;4171.64;1;710;4;Tienda física;67;Otras Tarjetas;1;Compradores de Temporada
+C800066;4726.9;4726.9;1;805;1;Tienda física;36;Otras Tarjetas;0;Compradores de Temporada
+C800171;2416.67;2416.67;1;273;3;Tienda física;68;Tarjeta ECI;1;Compradores de Temporada
+C800940;1799.27;1799.27;1;529;7;Web;22;Efectivo;1;Compradores de Temporada
+C804158;1837.23;1837.23;1;263;6;Web;31;Otras Tarjetas;0;Compradores de Temporada
+C807034;3061.29;3061.29;1;426;0;Tienda física;69;Otras Tarjetas;1;Compradores de Temporada
+C809306;2263.05;2263.05;1;1196;7;Tienda física;67;Efectivo;1;Compradores de Temporada
+C811377;1759.77;1759.77;1;377;0;Tienda física;47;Otras Tarjetas;1;Compradores de Temporada
+C812195;934.83;934.83;1;671;3;Web;23;Otras Tarjetas;1;Clientes Estrella
+C812292;126.17;126.17;1;1068;2;Web;57;Otras Tarjetas;1;Clientes Estrella
+C813432;4473.83;4473.83;1;1391;6;Tienda física;49;Tarjeta ECI;0;Compradores de Temporada
+C813846;2519.71;2519.71;1;611;7;Web;30;Tarjeta ECI;1;Compradores de Temporada
+C816879;721.24;721.24;1;789;4;Web;58;Otras Tarjetas;0;Curiosos o Ocasionales
+C818234;4087.25;4087.25;1;973;5;Web;67;Efectivo;0;Compradores de Temporada
+C820263;3812.78;3812.78;1;1427;1;Tienda física;48;Efectivo;1;Compradores de Temporada
+C820954;3784.76;3784.76;1;532;4;Tienda física;32;Tarjeta ECI;0;Compradores de Temporada
+C820981;1699.57;1699.57;1;173;2;Web;23;Efectivo;0;Clientes Estrella
+C822157;2471.18;2471.18;1;1204;5;Web;21;Tarjeta ECI;1;Compradores de Temporada
+C822290;2377.56;2377.56;1;1223;2;Web;31;Otras Tarjetas;0;Compradores de Temporada
+C822598;4852.37;4852.37;1;1146;4;Tienda física;26;Efectivo;0;Compradores de Temporada
+C823732;2883.81;2883.81;1;1067;3;Web;54;Tarjeta ECI;1;Compradores de Temporada
+C824415;1920.83;1920.83;1;341;6;Web;20;Efectivo;1;Compradores de Temporada
+C825895;2695.93;2695.93;1;1184;6;Web;25;Otras Tarjetas;1;Compradores de Temporada
+C826025;701.21;701.21;1;430;0;Tienda física;47;Efectivo;0;Curiosos o Ocasionales
+C826368;2065.09;2065.09;1;917;3;Web;31;Otras Tarjetas;1;Compradores de Temporada
+C827156;1440.14;1440.14;1;1390;5;Web;18;Otras Tarjetas;0;Cazadores de Ofertas
+C827966;3964.13;3964.13;1;875;4;Web;45;Otras Tarjetas;1;Compradores de Temporada
+C828328;488.67;488.67;1;989;6;Web;23;Tarjeta ECI;0;Clientes Estrella
+C829436;2420.18;2420.18;1;1252;4;Tienda física;65;Otras Tarjetas;1;Compradores de Temporada
+C831174;17.69;17.69;1;1060;4;Tienda física;66;Efectivo;0;Curiosos o Ocasionales
+C831195;798.83;798.83;1;725;1;Web;26;Otras Tarjetas;1;Curiosos o Ocasionales
+C831884;1994.37;1994.37;1;31;3;Tienda física;55;Tarjeta ECI;1;Compradores de Temporada
+C832655;4381.93;4381.93;1;1360;7;Tienda física;38;Efectivo;1;Compradores de Temporada
+C836601;2101.86;2101.86;1;605;3;Web;21;Tarjeta ECI;0;Compradores de Temporada
+C837617;3760.14;3760.14;1;332;7;Tienda física;18;Efectivo;0;Compradores de Temporada
+C837964;2285.37;2285.37;1;697;6;Web;51;Tarjeta ECI;0;Compradores de Temporada
+C840076;4673.48;4673.48;1;497;5;Tienda física;19;Efectivo;1;Compradores de Temporada
+C844247;3001.29;3001.29;1;633;0;Tienda física;27;Tarjeta ECI;1;Compradores de Temporada
+C844965;3210.53;3210.53;1;1281;0;Tienda física;39;Tarjeta ECI;1;Compradores de Temporada
+C845212;3821.31;3821.31;1;982;3;Web;53;Efectivo;0;Compradores de Temporada
+C848832;738.76;738.76;1;751;7;Tienda física;58;Efectivo;1;Clientes Estrella
+C849408;1522.2;1522.2;1;334;4;Tienda física;46;Tarjeta ECI;1;Clientes Estrella
+C852169;669.17;669.17;1;274;6;Web;55;Tarjeta ECI;1;Curiosos o Ocasionales
+C852928;4856.64;4856.64;1;491;3;Web;54;Tarjeta ECI;1;Compradores de Temporada
+C854772;3340.82;3340.82;1;702;1;Web;19;Tarjeta ECI;1;Compradores de Temporada
+C855472;2442.23;2442.23;1;184;0;Web;55;Tarjeta ECI;1;Compradores de Temporada
+C856872;98.59;98.59;1;297;6;Web;24;Otras Tarjetas;0;Clientes Estrella
+C858071;3013.57;3013.57;1;832;0;Web;47;Otras Tarjetas;1;Compradores de Temporada
+C860372;1910.25;1910.25;1;776;4;Tienda física;19;Efectivo;0;Compradores de Temporada
+C860752;3166.61;3166.61;1;1363;1;Web;28;Tarjeta ECI;1;Compradores de Temporada
+C861094;4676.3;4676.3;1;1023;7;Web;20;Efectivo;0;Compradores de Temporada
+C861868;4059.79;4059.79;1;1160;5;Web;22;Tarjeta ECI;0;Compradores de Temporada
+C862295;4128.86;4128.86;1;731;2;Web;64;Tarjeta ECI;0;Compradores de Temporada
+C862513;3669.6;3669.6;1;535;1;Tienda física;30;Otras Tarjetas;1;Compradores de Temporada
+C863659;417.07;417.07;1;17;0;Tienda física;21;Tarjeta ECI;0;Clientes Estrella
+C867168;3361.11;3361.11;1;383;5;Tienda física;34;Tarjeta ECI;1;Compradores de Temporada
+C868116;4031.29;4031.29;1;26;4;Web;19;Tarjeta ECI;1;Compradores de Temporada
+C868622;958.17;958.17;1;686;7;Tienda física;31;Otras Tarjetas;0;Cazadores de Ofertas
+C868652;3541.02;3541.02;1;1037;2;Tienda física;43;Efectivo;0;Compradores de Temporada
+C869060;4767.55;4767.55;1;391;7;Web;28;Efectivo;1;Compradores de Temporada
+C870247;2002.67;2002.67;1;430;7;Web;39;Efectivo;1;Compradores de Temporada
+C870621;2588.75;2588.75;1;158;5;Web;63;Otras Tarjetas;0;Compradores de Temporada
+C871580;3869.94;3869.94;1;689;1;Tienda física;66;Efectivo;0;Compradores de Temporada
+C871763;801.98;801.98;1;973;7;Tienda física;68;Efectivo;0;Clientes Estrella
+C872040;2600.71;2600.71;1;335;3;Web;53;Tarjeta ECI;1;Compradores de Temporada
+C873941;2826.0;2826.0;1;50;0;Web;34;Efectivo;1;Compradores de Temporada
+C877114;3151.04;3151.04;1;479;4;Tienda física;61;Tarjeta ECI;0;Compradores de Temporada
+C878993;974.93;974.93;1;396;7;Web;65;Efectivo;1;Clientes Estrella
+C879811;4542.91;4542.91;1;604;5;Tienda física;25;Efectivo;0;Compradores de Temporada
+C880951;3981.23;3981.23;1;882;6;Web;36;Otras Tarjetas;0;Compradores de Temporada
+C882372;1360.62;1360.62;1;82;5;Tienda física;54;Efectivo;1;Compradores de Temporada
+C882633;3780.19;3780.19;1;1425;0;Tienda física;21;Otras Tarjetas;1;Compradores de Temporada
+C885014;1340.77;1340.77;1;1208;7;Web;52;Tarjeta ECI;0;Clientes Estrella
+C885208;528.14;528.14;1;426;3;Tienda física;45;Otras Tarjetas;0;Cazadores de Ofertas
+C886147;4773.32;4773.32;1;209;5;Web;66;Otras Tarjetas;1;Compradores de Temporada
+C886892;1874.05;1874.05;1;572;5;Web;42;Efectivo;0;Clientes Estrella
+C889452;3658.13;3658.13;1;502;4;Tienda física;66;Tarjeta ECI;0;Compradores de Temporada
+C890589;4729.35;4729.35;1;52;7;Tienda física;53;Otras Tarjetas;1;Compradores de Temporada
+C891473;4524.62;4524.62;1;1156;0;Web;51;Efectivo;1;Compradores de Temporada
+C891612;3934.43;3934.43;1;51;2;Tienda física;27;Tarjeta ECI;0;Compradores de Temporada
+C891951;2639.35;2639.35;1;315;6;Web;19;Tarjeta ECI;1;Compradores de Temporada
+C892392;1331.2;1331.2;1;490;3;Tienda física;51;Tarjeta ECI;0;Cazadores de Ofertas
+C893232;1551.74;1551.74;1;199;7;Web;57;Otras Tarjetas;0;Compradores de Temporada
+C894217;4383.49;4383.49;1;17;2;Tienda física;54;Otras Tarjetas;0;Compradores de Temporada
+C898674;4338.69;4338.69;1;453;6;Web;67;Tarjeta ECI;0;Compradores de Temporada
+C898922;537.62;537.62;1;318;1;Tienda física;32;Tarjeta ECI;1;Clientes Estrella
+C899291;467.91;467.91;1;277;5;Web;29;Otras Tarjetas;1;Clientes Estrella
+C899437;82.77;82.77;1;491;4;Web;44;Efectivo;0;Curiosos o Ocasionales
+C900071;2450.33;2450.33;1;864;3;Web;20;Tarjeta ECI;0;Compradores de Temporada
+C900419;4896.34;4896.34;1;958;5;Tienda física;51;Efectivo;1;Compradores de Temporada
+C900587;3035.37;3035.37;1;417;2;Tienda física;68;Tarjeta ECI;0;Compradores de Temporada
+C904107;3581.94;3581.94;1;1196;6;Tienda física;26;Efectivo;1;Compradores de Temporada
+C905418;2903.76;2903.76;1;1037;5;Tienda física;64;Otras Tarjetas;0;Compradores de Temporada
+C905524;4040.09;4040.09;1;459;4;Tienda física;39;Tarjeta ECI;0;Compradores de Temporada
+C906251;4621.95;4621.95;1;967;3;Tienda física;29;Efectivo;0;Compradores de Temporada
+C908470;1232.64;1232.64;1;1188;2;Web;56;Efectivo;0;Curiosos o Ocasionales
+C908858;2748.42;2748.42;1;29;5;Tienda física;34;Tarjeta ECI;0;Compradores de Temporada
+C908985;1460.59;1460.59;1;575;6;Web;21;Efectivo;0;Compradores de Temporada
+C909739;734.91;734.91;1;1153;4;Web;68;Efectivo;0;Curiosos o Ocasionales
+C910810;3450.08;3450.08;1;92;2;Tienda física;69;Otras Tarjetas;1;Compradores de Temporada
+C913232;4117.26;4117.26;1;349;5;Tienda física;52;Tarjeta ECI;0;Compradores de Temporada
+C914028;210.38;210.38;1;496;2;Web;27;Efectivo;1;Clientes Estrella
+C915175;35.05;35.05;1;1104;1;Web;42;Tarjeta ECI;1;Clientes Estrella
+C916583;3200.88;3200.88;1;1282;2;Web;63;Otras Tarjetas;1;Compradores de Temporada
+C917703;3919.44;3919.44;1;1282;7;Web;49;Efectivo;1;Compradores de Temporada
+C917729;327.08;327.08;1;1000;4;Web;63;Tarjeta ECI;0;Clientes Estrella
+C918032;4905.78;4905.78;1;154;6;Web;53;Otras Tarjetas;1;Compradores de Temporada
+C920164;2513.27;2513.27;1;862;7;Web;42;Otras Tarjetas;1;Compradores de Temporada
+C923314;517.36;517.36;1;1389;4;Web;28;Tarjeta ECI;1;Clientes Estrella
+C923736;1571.55;1571.55;1;787;5;Web;21;Efectivo;1;Compradores de Temporada
+C924335;3310.31;3310.31;1;788;6;Web;58;Efectivo;1;Compradores de Temporada
+C928696;553.53;553.53;1;1122;2;Web;32;Tarjeta ECI;1;Clientes Estrella
+C929402;1215.18;1215.18;1;944;1;Web;68;Tarjeta ECI;0;Clientes Estrella
+C930731;3275.68;3275.68;1;862;7;Web;22;Otras Tarjetas;0;Compradores de Temporada
+C931980;2825.01;2825.01;1;803;7;Tienda física;69;Tarjeta ECI;1;Compradores de Temporada
+C934952;1876.67;1876.67;1;217;5;Tienda física;67;Otras Tarjetas;0;Compradores de Temporada
+C935956;1879.66;1879.66;1;750;7;Tienda física;54;Tarjeta ECI;1;Compradores de Temporada
+C936009;1743.99;1743.99;1;1110;1;Web;30;Otras Tarjetas;1;Compradores de Temporada
+C936577;4228.44;4228.44;1;1443;7;Tienda física;30;Tarjeta ECI;1;Compradores de Temporada
+C937423;2390.83;2390.83;1;1269;5;Tienda física;37;Efectivo;1;Compradores de Temporada
+C938637;2811.07;2811.07;1;257;6;Web;66;Otras Tarjetas;1;Compradores de Temporada
+C940478;3087.23;3087.23;1;1133;7;Tienda física;52;Otras Tarjetas;1;Compradores de Temporada
+C942709;4992.83;4992.83;1;847;0;Web;51;Efectivo;0;Compradores de Temporada
+C942978;2098.22;2098.22;1;946;0;Web;65;Tarjeta ECI;1;Compradores de Temporada
+C945965;1942.07;1942.07;1;382;7;Tienda física;42;Efectivo;1;Compradores de Temporada
+C946474;60.56;60.56;1;352;2;Web;26;Efectivo;0;Cazadores de Ofertas
+C946782;4527.82;4527.82;1;738;1;Web;49;Tarjeta ECI;1;Compradores de Temporada
+C946874;559.6;559.6;1;254;6;Tienda física;37;Efectivo;1;Curiosos o Ocasionales
+C949594;2999.44;2999.44;1;17;6;Tienda física;35;Tarjeta ECI;0;Compradores de Temporada
+C950704;222.68;222.68;1;1170;7;Tienda física;60;Otras Tarjetas;0;Curiosos o Ocasionales
+C952417;4212.29;4212.29;1;988;4;Tienda física;31;Efectivo;0;Compradores de Temporada
+C952458;1913.66;1913.66;1;334;6;Tienda física;24;Tarjeta ECI;0;Compradores de Temporada
+C953358;1363.76;1363.76;1;432;2;Tienda física;33;Efectivo;1;Clientes Estrella
+C953535;1367.38;1367.38;1;1345;0;Tienda física;62;Otras Tarjetas;0;Compradores de Temporada
+C954505;3830.75;3830.75;1;506;5;Tienda física;42;Efectivo;1;Compradores de Temporada
+C955548;1490.01;1490.01;1;1103;5;Web;40;Efectivo;0;Clientes Estrella
+C956412;4799.59;4799.59;1;843;0;Tienda física;62;Otras Tarjetas;1;Compradores de Temporada
+C956470;2359.9;2359.9;1;477;7;Web;45;Otras Tarjetas;1;Compradores de Temporada
+C956849;700.36;700.36;1;471;3;Web;30;Otras Tarjetas;0;Clientes Estrella
+C962381;2531.1;2531.1;1;371;5;Tienda física;57;Tarjeta ECI;1;Compradores de Temporada
+C965057;3275.09;3275.09;1;201;1;Web;32;Tarjeta ECI;1;Compradores de Temporada
+C965709;845.16;845.16;1;708;7;Tienda física;20;Tarjeta ECI;0;Clientes Estrella
+C965795;778.06;778.06;1;605;5;Web;47;Otras Tarjetas;1;Curiosos o Ocasionales
+C965974;1284.39;1284.39;1;1015;4;Tienda física;37;Efectivo;1;Clientes Estrella
+C966643;3076.6;3076.6;1;767;3;Tienda física;69;Efectivo;0;Compradores de Temporada
+C967912;632.87;632.87;1;1417;5;Tienda física;26;Tarjeta ECI;1;Curiosos o Ocasionales
+C968452;4852.21;4852.21;1;68;6;Web;68;Otras Tarjetas;1;Compradores de Temporada
+C968922;1590.99;1590.99;1;1052;7;Web;66;Otras Tarjetas;1;Compradores de Temporada
+C970575;3851.52;3851.52;1;547;6;Tienda física;33;Tarjeta ECI;1;Compradores de Temporada
+C970810;971.83;971.83;1;359;0;Tienda física;65;Tarjeta ECI;0;Clientes Estrella
+C971032;4221.73;4221.73;1;865;2;Web;49;Tarjeta ECI;0;Compradores de Temporada
+C972465;2080.03;2080.03;1;339;6;Web;59;Efectivo;1;Compradores de Temporada
+C972811;1112.59;1112.59;1;925;2;Tienda física;24;Efectivo;0;Clientes Estrella
+C974189;2355.45;2355.45;1;285;2;Web;34;Tarjeta ECI;1;Compradores de Temporada
+C974706;4005.05;4005.05;1;107;0;Tienda física;69;Otras Tarjetas;0;Compradores de Temporada
+C974814;1498.47;1498.47;1;985;3;Tienda física;22;Otras Tarjetas;0;Compradores de Temporada
+C976190;290.97;290.97;1;1350;3;Tienda física;54;Tarjeta ECI;1;Clientes Estrella
+C976710;1049.29;1049.29;1;405;4;Web;63;Otras Tarjetas;0;Clientes Estrella
+C976728;4382.14;4382.14;1;845;4;Web;63;Otras Tarjetas;0;Compradores de Temporada
+C977102;1433.03;1433.03;1;1417;0;Tienda física;24;Tarjeta ECI;1;Clientes Estrella
+C977202;4147.86;4147.86;1;1002;0;Web;48;Efectivo;0;Compradores de Temporada
+C978665;4244.42;4244.42;1;913;0;Web;61;Otras Tarjetas;0;Compradores de Temporada
+C980248;4993.93;4993.93;1;753;1;Web;24;Tarjeta ECI;1;Compradores de Temporada
+C980698;2286.08;2286.08;1;654;7;Tienda física;42;Otras Tarjetas;1;Compradores de Temporada
+C981042;2922.44;2922.44;1;369;0;Web;55;Otras Tarjetas;1;Compradores de Temporada
+C981171;1398.31;1398.31;1;661;7;Tienda física;40;Tarjeta ECI;0;Clientes Estrella
+C982219;1307.11;1307.11;1;1190;2;Web;25;Otras Tarjetas;1;Clientes Estrella
+C983321;4942.8;4942.8;1;1448;0;Tienda física;53;Efectivo;0;Compradores de Temporada
+C983511;278.86;278.86;1;1078;4;Tienda física;22;Otras Tarjetas;0;Clientes Estrella
+C985599;2383.79;2383.79;1;494;7;Web;29;Efectivo;1;Compradores de Temporada
+C985873;3007.83;3007.83;1;113;0;Tienda física;55;Otras Tarjetas;0;Compradores de Temporada
+C987314;3444.9;3444.9;1;75;0;Web;65;Efectivo;1;Compradores de Temporada
+C987475;625.63;625.63;1;1154;7;Tienda física;44;Efectivo;1;Cazadores de Ofertas
+C988929;3634.07;3634.07;1;1062;5;Web;61;Otras Tarjetas;1;Compradores de Temporada
+C989987;1706.56;1706.56;1;1077;4;Tienda física;32;Efectivo;0;Compradores de Temporada
+C991094;3212.21;3212.21;1;920;6;Web;61;Otras Tarjetas;1;Compradores de Temporada
+C993492;3604.79;3604.79;1;394;0;Tienda física;46;Tarjeta ECI;1;Compradores de Temporada
+C994782;3159.58;3159.58;1;1095;0;Tienda física;19;Otras Tarjetas;1;Compradores de Temporada
+C996527;4495.03;4495.03;1;1018;6;Web;64;Tarjeta ECI;1;Compradores de Temporada
+C997500;2689.32;2689.32;1;489;1;Tienda física;31;Otras Tarjetas;1;Compradores de Temporada
+C998152;2332.2;2332.2;1;584;2;Web;36;Efectivo;0;Compradores de Temporada
+C998196;4969.35;4969.35;1;1280;6;Tienda física;39;Otras Tarjetas;1;Compradores de Temporada
+C999532;1068.12;1068.12;1;1167;5;Web;40;Efectivo;0;Clientes Estrella
